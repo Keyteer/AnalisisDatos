@@ -1,0 +1,190 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 4195 invoked from network); 01 Feb 2017 04:53:44 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 01 Feb 2017 04:53:44 -0000
+Received: (qmail 10918 invoked from network); 1 Feb 2017 04:53:44 -0000
+Received: from smtp-vip1.incrm.net.br (1310103253.incrm.net.br [131.0.103.253])
+  by mx08.futurequest.net ([69.5.6.180])
+  with ESMTP via TCP; 01 Feb 2017 04:53:44 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=terra.com.br; s=default; h=Message-ID:Date:Content-Transfer-Encoding:
+	Content-Type:Subject:To:Reply-To:From:MIME-Version;
+	bh=CpsNK+Ya2y6M07C9+zp7CJvuBDPEy4VVwv1kzs4l6Og=; b=Dx5yhOcorNPlm7vP1Josyb1ylD
+	KnB3pm54i4l040awQNSqgCW6L8aPAa2n6sfsEtCJtS3l35fWNrDPUmftHPXxfDdJ0At0O1Pi0wWnK
+	yb6Bk8DtzWTCBGzYPT90cJC9cndzByM25ZOviOIT/sSRr9WC3pH6dczXkh1xMQV6DFDaOA9SA+Eta
+	1ydYBhhlwW8KSTj+srdgt0ZBX3ImUs5duatgJ5ascv5VSKWsqESMqB7sJCKQyjRD92fzgW1VY3c+P
+	qt3RqN5LhcjZ+FIIpJnYFX2wGhBt9sa2b2/cjWSb02V/yMECCzjfQmRX7IOIkqCg/4wLVqmod4qEb
+	MPaFyK4w==;
+Received: from [201.37.161.137] (port=24677 helo=c925a189.virtua.com.br)
+	by smtp-vip1.incrm.com.br with esmtpa (Exim 4.86)
+	(envelope-from <eas.brasil@terra.com.br>)
+	id 1cYmvO-0005qG-HJ
+	for bruce@untroubled.org; Wed, 01 Feb 2017 02:53:42 -0200
+MIME-Version: 1.0
+From: "Expand a Sign do Brasil | Latin America" <eas.brasil@terra.com.br>
+Reply-To: eas.brasil@terra.com.br
+To: bruce@untroubled.org
+Subject: Kit Assessoria Esportiva, Clube, Academia e Personal Trainer
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Smart_Send_4_1_3
+Date: Wed, 1 Feb 2017 02:53:40 -0200
+Message-ID: <901221351316073787064@EASBRasil>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - smtp-vip1.incrm.com.br
+X-AntiAbuse: Original Domain - untroubled.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - terra.com.br
+X-Get-Message-Sender-Via: smtp-vip1.incrm.com.br: authenticated_id: contato@riegel.esp.br
+X-Authenticated-Sender: smtp-vip1.incrm.com.br: contato@riegel.esp.br
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Content-Length: 6132
+
+<html>
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+
+  <title></title>
+</head>
+
+<body background=3D"https://dl.dropboxusercontent.com/u/44877922/news/news_=
+19/bg.gif" text=3D"#FFFFFF" topmargin=3D"10" leftmargin=3D"0" link=3D"#F5BE=
+00" alink=3D"#F5BE00" vlink=3D"#EBE911" marginheight=3D"10" marginwidth=3D"=
+0">
+  <table width=3D"722" height=3D"942" align=3D"center" id=3D"Table_01" bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tr>
+      <td width=3D"702" height=3D"30" align=3D"center" style=3D'font-family=
+: "Arial", Helvetica, Trebuchet MS; font-size: 10px;' colspan=3D"2">Caso vo=
+c=C3=AA n=C3=A3o esteja visualizando esta News, <a href=3D"https://dl.dropb=
+oxusercontent.com/u/44877922/news/news_19/easbrasil_00.jpg" target=3D"_blan=
+k">Clique Aqui.</a></td>
+    </tr>
+
+    <tr>
+      <td><img width=3D"361" height=3D"134" alt=3D"logo empresa" src=3D"htt=
+ps://dl.dropboxusercontent.com/u/44877922/news/news_19/easbrasil_01.jpg" bo=
+rder=3D"0" usemap=3D"#Map"></td>
+
+      <td><img width=3D"361" height=3D"134" alt=3D"icones" src=3D"https://d=
+l.dropboxusercontent.com/u/44877922/news/news_19/easbrasil_02.jpg" border=
+=3D"0" usemap=3D"#Map2"></td>
+    </tr>
+
+    <tr>
+      <td><img width=3D"361" height=3D"166" alt=3D"texto" src=3D"https://dl=
+.dropboxusercontent.com/u/44877922/news/news_19/easbrasil_03.jpg" border=3D=
+"0" usemap=3D"#Map3"></td>
+
+      <td><img width=3D"361" height=3D"166" alt=3D"" src=3D"https://dl.drop=
+boxusercontent.com/u/44877922/news/news_19/easbrasil_04.jpg" border=3D"0"><=
+/td>
+    </tr>
+
+    <tr>
+      <td><img width=3D"361" height=3D"142" alt=3D"texto" src=3D"https://dl=
+.dropboxusercontent.com/u/44877922/news/news_19/easbrasil_05.jpg" border=3D=
+"0" usemap=3D"#Map4"></td>
+
+      <td><img width=3D"361" height=3D"142" alt=3D"texto" src=3D"https://dl=
+.dropboxusercontent.com/u/44877922/news/news_19/easbrasil_06.jpg" border=3D=
+"0" usemap=3D"#Map5"></td>
+    </tr>
+
+    <tr>
+      <td><img width=3D"361" height=3D"163" alt=3D"produtos" src=3D"https:/=
+/dl.dropboxusercontent.com/u/44877922/news/news_19/easbrasil_07.jpg" border=
+=3D"0"></td>
+
+      <td><img width=3D"361" height=3D"163" alt=3D"produtos" src=3D"https:/=
+/dl.dropboxusercontent.com/u/44877922/news/news_19/easbrasil_08.jpg" border=
+=3D"0"></td>
+    </tr>
+
+    <tr>
+      <td><img width=3D"361" height=3D"181" alt=3D"produtos" src=3D"https:/=
+/dl.dropboxusercontent.com/u/44877922/news/news_19/easbrasil_09.jpg" border=
+=3D"0"></td>
+
+      <td><img width=3D"361" height=3D"181" alt=3D"produtos" src=3D"https:/=
+/dl.dropboxusercontent.com/u/44877922/news/news_19/easbrasil_10.jpg" border=
+=3D"0"></td>
+    </tr>
+
+    <tr>
+      <td><img width=3D"361" height=3D"156" alt=3D"redes sociais" src=3D"ht=
+tps://dl.dropboxusercontent.com/u/44877922/news/news_19/easbrasil_11.jpg" b=
+order=3D"0" usemap=3D"#Map6"></td>
+
+      <td><img width=3D"361" height=3D"156" alt=3D"redes sociais" src=3D"ht=
+tps://dl.dropboxusercontent.com/u/44877922/news/news_19/easbrasil_12.jpg" b=
+order=3D"0" usemap=3D"#Map7"></td>
+    </tr>
+
+    <tr>
+      <td width=3D"702" height=3D"10" colspan=3D"2"></td>
+    </tr>
+
+    <tr>
+      <td width=3D"702" height=3D"18" style=3D'font-family: "Arial", Helvet=
+ica, Trebuchet MS; font-size: 10px;' colspan=3D"2">&nbsp;&nbsp;Para garanti=
+r que nossas newsletters cheguem em sua caixa de entrada, adicione o e-mail=
+: <a href=3D"mailto:comercial@expandasign.com.br">comercial@expandasign.com=
+.br</a>, ao seu cat=C3=A1logo</td>
+    </tr>
+
+    <tr>
+      <td width=3D"702" height=3D"18" style=3D'font-family: "Arial", Helvet=
+ica, Trebuchet MS; font-size: 10px;' colspan=3D"2">de endere=C3=A7os. A Exp=
+and a Sign do Brasil respeita a sua privacidade e =C3=A9 contra o spam na w=
+eb.</td>
+    </tr>
+
+    <tr>
+      <td width=3D"702" height=3D"18" style=3D'font-family: "Arial", Helvet=
+ica, Trebuchet MS; font-size: 10px;' colspan=3D"2">&nbsp;&nbsp;&nbsp;Este e=
+mail foi enviado para: bruce@untroubled.org. Muito Obrigado pela sua aten=
+=C3=A7=C3=A3o!</td>
+    </tr>
+  </table><map name=3D"Map">
+    <area href=3D"http://www.expandasign.com.br" shape=3D"rect" coords=3D"1=
+4,19,309,108" alt=3D"Website com os Links em PDF">
+  </map> <map name=3D"Map2">
+    <area href=3D"https://www.youtube.com/watch=3Fv=3D7hd40-gYOXM" shape=3D=
+"rect" coords=3D"83,15,356,105" alt=3D"Conhe=C3=A7a Nosso Processo de Produ=
+=C3=A7=C3=A3o e Qualidade do Servi=C3=A7o">
+  </map> <map name=3D"Map3">
+    <area href=3D"http://bit.ly/1X4CCzc" shape=3D"rect" coords=3D"18,88,258=
+,118" alt=3D"Catalogo de Produtos em PDF">
+    <area href=3D"http://bit.ly/24b9B7n" shape=3D"rect" coords=3D"18,131,22=
+7,161" alt=3D"Conhe=C3=A7a Nossa Linha de Produtos">
+    <area href=3D"http://bit.ly/2c3JpLD" shape=3D"rect" coords=3D"16,3,356,=
+75" alt=3D"Kit Assessoria Esportiva | Academia | Clube | Personal Trainer">
+  </map> <map name=3D"Map4">
+    <area href=3D"http://bit.ly/2hnaNBH" shape=3D"rect" coords=3D"17,8,362,=
+38" alt=3D"Comparativo Flying, Feather e Wing Banners">
+    <area href=3D"mailto:comercial@expandasign.com.br=3FSubject=3DContato F=
+eito Pela News 19" shape=3D"rect" coords=3D"16,50,313,83" alt=3D"Entre em C=
+ontato Conosco">
+  </map> <map name=3D"Map5">
+    <area href=3D"http://bit.ly/2hnaNBH" shape=3D"rect" coords=3D"1,8,75,38=
+" alt=3D"Comparativo Flying, Feather e Wing Banners">
+  </map> <map name=3D"Map6">
+    <area href=3D"https://twitter.com/ExpandSignBra" shape=3D"rect" coords=
+=3D"250,52,300,107" alt=3D"Twitter">
+    <area href=3D"https://www.youtube.com/user/expandasignbrasil" shape=3D"=
+rect" coords=3D"307,53,360,107" alt=3D"Como Montar e Desmontar">
+  </map> <map name=3D"Map7">
+    <area href=3D"https://www.facebook.com/expandasign.brasil" shape=3D"rec=
+t" coords=3D"4,52,54,107" alt=3D"Fan Page &gt;&gt; Facebook">
+    <area href=3D"https://instagram.com/expandasignbrasil/" shape=3D"rect" =
+coords=3D"61,53,113,107" alt=3D"Instagram">
+    <area href=3D"mailto:comercial@expandasign.com.br=3FSubject=3DNewslette=
+r 19 EAS BRasil | Remova Meu Email" shape=3D"rect" coords=3D"106,128,349,15=
+3" alt=3D"Remova Meu E-mail">
+  </map>
+</body>
+</html>

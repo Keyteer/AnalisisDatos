@@ -1,0 +1,1664 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 24658 invoked from network); 01 Feb 2017 13:12:30 -0000
+Received: from mx11.futurequest.net (mx11.futurequest.net [69.5.6.184])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 01 Feb 2017 13:12:30 -0000
+Received: (qmail 21471 invoked from network); 1 Feb 2017 13:12:30 -0000
+Received: from omp.easy.staples.ca (omp.easy.staples.ca [199.7.206.157])
+  by mx11.futurequest.net ([69.5.6.184])
+  with ESMTP via TCP; 01 Feb 2017 13:12:30 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=staples2; d=easy.staples.ca;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:Subject:List-Unsubscribe:Message-ID; i=staples@easy.staples.ca;
+ bh=mWNWKQ1LzotPHtDgMloSG85E1dk=;
+ b=PPaCL/8g+2paPj9qNd0TvzHo8PUsZw2frP3+tyc588Jrmfg/1XTbYJYsM7SqbX2zTTNEHb3P+aPR
+   aPK8qGUGJidpaF9Xo0m+7B651weBGaKatU+jmn72e8XO7go0pk6nJ5wtd5U8hUbrisRmuWiAbxa9
+   evHWgGbBDCeuex8zgoI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=staples2; d=easy.staples.ca;
+ b=CtigjKIy07zpB/jWHjS9289jbJeYiX3CnC1FxF7MtHh6uqck79dkt1UPVNA43Fw/mSj1SHwhkEBM
+   liKWfm69g2bvgFZbD6kQHocIRy/zWpO+vNXQYGuHSZdAXCwtMZ0hJLbp5A+zEms2zstCTXVamzyt
+   VJMcLCPWxdWrN1M0Jpg=;
+Received: by omp.easy.staples.ca id hi7fbs162k49 for <bruce@untroubled.org>; Wed, 1 Feb 2017 05:12:29 -0800 (envelope-from <staples@easy.staples.ca>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 1 Feb 2017 05:12:29 -0800
+To: bruce@untroubled.org
+From: "Staples/Bureau en Gros" <staples@easy.staples.ca>
+Reply-To: "Staples/Bureau en Gros" <StaplesCanada@Staples.ca>
+Subject: 80% off? Take a look at these Dollar Deals!
+Feedback-ID: 54078:447785:oraclersys
+List-Unsubscribe: <https://easy.staples.ca/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4O&_ei_=Ejmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grE95FAYi8wpKKH1LJNBKYGuQAIeQLsFPC-8Pt0>, <mailto:unsubscribe-YQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4O@imh.rsys5.com?subject=List-Unsubscribe>
+X-sgxh1: IjmJLxmgljhmItLKQhjn
+X-rext: 5.interact5.EpJcAHbWb3-63JcWHBPexKr5w4uR-9ipJHeza3s8fSNrGAnxjWw
+X-cid: staplescan.1151645
+Message-ID: <0.0.A8.23B.1D27C8CD75A111C.0@omp.easy.staples.ca>
+Content-Length: 89460
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22><html>
+<head>
+<title></title>
+</head>
+<body><table cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22border:=
+ 0px; padding: 0px; margin: 0px; position: absolute; display: none; float: =
+left=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<img height=3D=221=22 width=3D=221=22 style=3D =22padding: 0px 0px; =21impo=
+rtant; margin: 0px 0px; font-size: 1px; line-height: 1px;=22 src=3D=22https=
+://easy=2Estaples=2Eca/pub/as?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4=
+a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXHkMX%3Dw&_ei_=3DEjmg-FCcWuWG_E-Dbb5C=
+L0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grE95FAYi8wpKKH1LJNBKYGuQAIeQLsF=
+PC-8Pt0=2E=22></img>
+</td>
+</tr>
+</table>
+
+
+
+ =20
+
+<style type=3D=22text/css=22>=09
+html=7B -webkit-text-size-adjust:none; -ms-text-size-adjust: none; =7D
+	td, div=7B font-family: Arial, Verdana, sans-serif; =7D
+	a, a:link, a:visited, a:active, a:hover=7B color: =23000000; =7D
+	a=2Eunderline=7B text-decoration: underline =21important; =7D
+	a=2Eunderline:hover=7B text-decoration: underline =21important; =7D
+	span=2EMaintenantrap=7B white-space: Maintenantrap; =7D
+	=2EExternalClass * =7B line-height: 100%; =7D
+	=2EappleLinksTurq a =7Bcolor:=23b7ca00; text-decoration: none;=7D
+	=2EappleLinks a =7Bcolor:=23000000; text-decoration: none;=7D
+	=2EappleLinksDisclaimer a =7Bcolor:=234d4d4d; text-decoration: none;=7D
+	=2EappleLinksGrey a =7Bcolor:=23666666; text-decoration: none;=7D
+	=2EappleLinksWhite a =7Bcolor:=23ffffff; text-decoration: none;=7D
+	=2Eaddr a =7B color:=234d4d4d =21important;=7D
+=09
+		=40media screen and (max-width: 640px)=7B
+		*=5Bclass=5D=2Ew414=7B width: 414px =21important; =7D
+		*=5Bclass=5D=2Ew375=7B width: 375px =21important; =7D
+		*=5Bclass=5D=2Ew320=7B width: 320px =21important; =7D
+		*=5Bclass=5D=2Ew310=7B width: 310px =21important; =7D
+		*=5Bclass=5D=2Ew300=7B width: 300px =21important; =7D
+		*=5Bclass=5D=2Ew290=7B width: 290px =21important; =7D
+		*=5Bclass=5D=2Ew288=7B width: 288px =21important; =7D
+		*=5Bclass=5D=2Ew280=7B width: 280px =21important; =7D
+		*=5Bclass=5D=2Ew275=7B width: 275px =21important; =7D
+		*=5Bclass=5D=2Ew270=7B width: 270px =21important; =7D
+		*=5Bclass=5D=2Ew266=7B width: 266px =21important; =7D
+		*=5Bclass=5D=2Ew260=7B width: 260px =21important; =7D
+		*=5Bclass=5D=2Ew242=7B width: 242px =21important; =7D
+		*=5Bclass=5D=2Ew240=7B width: 240px =21important; =7D
+		*=5Bclass=5D=2Ew220=7B width: 220px =21important; =7D
+		*=5Bclass=5D=2Ew200=7B width: 200px =21important; =7D
+		*=5Bclass=5D=2Ew190=7B width: 190px =21important; =7D
+		*=5Bclass=5D=2Ew181=7B width: 181px =21important; =7D
+		*=5Bclass=5D=2Ew180=7B width: 180px =21important; =7D
+		*=5Bclass=5D=2Ew170=7B width: 170px =21important; =7D
+		*=5Bclass=5D=2Ew165=7B width: 165px =21important; =7D
+		*=5Bclass=5D=2Ew161=7B width: 161px =21important; =7D
+		*=5Bclass=5D=2Ew160=7B width: 160px =21important; =7D
+		*=5Bclass=5D=2Ew150=7B width: 150px =21important; =7D
+		*=5Bclass=5D=2Ew145=7B width: 145px =21important; =7D
+		*=5Bclass=5D=2Ew140=7B width: 140px =21important; =7D
+		*=5Bclass=5D=2Ew138=7B width: 138px =21important; =7D
+		*=5Bclass=5D=2Ew135=7B width: 135px =21important; =7D
+		*=5Bclass=5D=2Ew130=7B width: 130px =21important; =7D
+		*=5Bclass=5D=2Ew128=7B width: 128px =21important; =7D
+		*=5Bclass=5D=2Ew127=7B width: 127px =21important; =7D
+		*=5Bclass=5D=2Ew124=7B width: 124px =21important; =7D
+		*=5Bclass=5D=2Ew123=7B width: 123px =21important; =7D
+		*=5Bclass=5D=2Ew120=7B width: 120px =21important; =7D
+		*=5Bclass=5D=2Ew110=7B width: 110px =21important; =7D
+		*=5Bclass=5D=2Ew100=7B width: 100px =21important; =7D
+		*=5Bclass=5D=2Ew90=7B width: 90px =21important; =7D
+		*=5Bclass=5D=2Ew80=7B width: 80px =21important; =7D
+		*=5Bclass=5D=2Ew75=7B width: 75px =21important; =7D
+		*=5Bclass=5D=2Ew70=7B width: 70px =21important; =7D
+		*=5Bclass=5D=2Ew68=7B width: 68px =21important; =7D
+		*=5Bclass=5D=2Ew60=7B width: 60px =21important; =7D
+		*=5Bclass=5D=2Ew56=7B width: 56px =21important; =7D
+		*=5Bclass=5D=2Ew52=7B width: 52px =21important; =7D
+		*=5Bclass=5D=2Ew50=7B width: 50px =21important; =7D
+		*=5Bclass=5D=2Ew45=7B width: 45px =21important; =7D
+		*=5Bclass=5D=2Ew40=7B width: 40px =21important; =7D
+		*=5Bclass=5D=2Ew38=7B width: 38px =21important; =7D
+		*=5Bclass=5D=2Ew30=7B width: 30px =21important; =7D
+		*=5Bclass=5D=2Ew28=7B width: 28px =21important; =7D
+		*=5Bclass=5D=2Ew20=7B width: 20px =21important; =7D
+		*=5Bclass=5D=2Ew16=7B width: 16px =21important; =7D
+		*=5Bclass=5D=2Ew15=7B width: 15px =21important; =7D
+		*=5Bclass=5D=2Ew14=7B width: 14px =21important; =7D
+		*=5Bclass=5D=2Ew12=7B width: 12px =21important; =7D
+		*=5Bclass=5D=2Ew10=7B width: 10px =21important; =7D
+		*=5Bclass=5D=2Ew5=7B width: 5px =21important; =7D
+		*=5Bclass=5D=2Ew3=7B width: 3px =21important; =7D
+		*=5Bclass=5D=2Ehei79=7B height: 79px =21important; =7D
+		*=5Bclass=5D=2Ehei30=7B height: 30px =21important; =7D
+		*=5Bclass=5D=2Ehei20=7B height: 20px =21important; =7D
+		*=5Bclass=5D=2Ehei10=7B height: 10px =21important; =7D
+		*=5Bclass=5D=2Ehei2=7B height: 2px =21important; =7D
+		*=5Bclass=5D=2EdkBG=7B background-color: =23cccccc =21important; =7D
+		*=5Bclass=5D=2Ei320=7B width: 320px =21important; height: auto =21importa=
+nt; =7D
+		*=5Bclass=5D=2Ei300=7B width: 300px =21important; height: auto =21importa=
+nt; =7D
+		*=5Bclass=5D=2Ei280=7B width: 280px =21important; height: auto =21importa=
+nt; =7D
+		*=5Bclass=5D=2Ei240=7B width: 240px =21important; height: auto =21importa=
+nt; =7D
+		*=5Bclass=5D=2Ei200=7B width: 200px =21important; height: auto =21importa=
+nt; =7D
+		*=5Bclass=5D=2Ei100=7B width: 100px =21important; height: auto =21importa=
+nt; =7D
+		*=5Bclass=5D=2Ei90=7B width: 90px =21important; height: auto =21important=
+; =7D
+		*=5Bclass=5D=2Ei80=7B width: 80px =21important; height: auto =21important=
+; =7D
+		*=5Bclass=5D=2Ei20=7B width: 20px =21important; height: auto =21important=
+; =7D
+		*=5Bclass=5D=2Ei10=7B width: 10px =21important; height: auto =21important=
+; =7D
+		*=5Bclass=5D=2Edisclaimer=7B font-size: 14px =21important; line-height: 2=
+4px =21important; width: 280px =21important; =7D
+		*=5Bclass=5D=2Ec50pc100pc=7B display: block =21important; width: 100% =21=
+important; height: auto =21important; float: left =21important; =7D
+		*=5Bclass=5D=2EnextLine =7B display : block =21important; =7D
+		*=5Bclass=5D=2Ereversepcfloat=7B display: inline =21important; height: au=
+to =21important; float: left =21important;=7D
+		*=5Bclass=5D=2Ei100pc320px=7B width: 320px =21important; height: auto =21=
+important; =7D
+		*=5Bclass=5D=2Ei100pc=7B width: 100% =21important; height: auto =21import=
+ant; =7D
+		*=5Bclass=5D=2Eremove=7B display: none =21important; =7D
+		*=5Bclass=5D=2Emobile=7B display : block =21important; width : auto =21im=
+portant; height : auto =21important; overflow : visible =21important; float=
+ : none =21important; max-height: none =21important; =7D
+		*=5Bclass=5D=2EwatchChop=7B height: 238px =21important; overflow: hidden =
+=21important; =7D
+		*=5Bclass=5D=2EadCrop=7B height: 180px =21important; overflow: hidden =21=
+important; =7D
+		*=5Bclass=5D=2EadChop=7B height: 140px =21important; overflow: hidden =21=
+important; =7D
+		*=5Bclass=5D=2Efloat4Col=7B display: block =21important; width: 300px =21=
+important; height: auto =21important; float: left =21important; =7D
+		*=5Bclass=5D=2Efloat2Col=7B display: block =21important; width: 150px =21=
+important; height: auto =21important; float: left =21important; =7D
+		*=5Bclass=5D=2Ef80=7B font-size: 80px =21important; line-height: 84px =21=
+important; =7D
+		*=5Bclass=5D=2Ef76=7B font-size: 76px =21important; line-height: 80px =21=
+important; =7D
+		*=5Bclass=5D=2Ef65=7B font-size: 65px =21important; line-height: 68px =21=
+important; =7D
+		*=5Bclass=5D=2Ef60=7B font-size: 60px =21important; line-height: 63px =21=
+important; =7D
+		*=5Bclass=5D=2Ef52=7B font-size: 52px =21important; line-height: 55px =21=
+important; =7D
+	=09
+		*=5Bclass=5D=2Ef50=7B font-size: 50px =21important; line-height: 53px =21=
+important; =7D
+		*=5Bclass=5D=2Ef48=7B font-size: 48px =21important; line-height: 51px =21=
+important; =7D
+		*=5Bclass=5D=2Ef46=7B font-size: 46px =21important; line-height: 49px =21=
+important; =7D
+		*=5Bclass=5D=2Ef44=7B font-size: 44px =21important; line-height: 47px =21=
+important; =7D
+		*=5Bclass=5D=2Ef42=7B font-size: 42px =21important; line-height: 45px =21=
+important; =7D
+		*=5Bclass=5D=2Ef40=7B font-size: 40px =21important; line-height: 43px =21=
+important; =7D
+		*=5Bclass=5D=2Ef38=7B font-size: 38px =21important; line-height: 41px =21=
+important; =7D
+		*=5Bclass=5D=2Ef36=7B font-size: 36px =21important; line-height: 39px =21=
+important; =7D
+		*=5Bclass=5D=2Ef34=7B font-size: 34px =21important; line-height: 37px =21=
+important; =7D
+		*=5Bclass=5D=2Ef32=7B font-size: 32px =21important; line-height: 35px =21=
+important; =7D
+		*=5Bclass=5D=2Ef30=7B font-size: 30px =21important; line-height: 33px =21=
+important; =7D
+		*=5Bclass=5D=2Ef28=7B font-size: 28px =21important; line-height: 31px =21=
+important; =7D
+		*=5Bclass=5D=2Ef26=7B font-size: 26px =21important; line-height: 29px =21=
+important; =7D
+		*=5Bclass=5D=2Ef24=7B font-size: 24px =21important; line-height: 27px =21=
+important; =7D
+		*=5Bclass=5D=2Ef22=7B font-size: 22px =21important; line-height: 25px =21=
+important; =7D
+		*=5Bclass=5D=2Ef20=7B font-size: 20px =21important; line-height: 23px =21=
+important; =7D
+		*=5Bclass=5D=2Ef18=7B font-size: 18px =21important; line-height: 21px =21=
+important; =7D
+		*=5Bclass=5D=2Ef16=7B font-size: 16px =21important; line-height: 19px =21=
+important; =7D
+		*=5Bclass=5D=2Ef15=7B font-size: 15px =21important; line-height: 18px =21=
+important; =7D
+		*=5Bclass=5D=2Ef14=7B font-size: 14px =21important; line-height: 17px =21=
+important; =7D
+		*=5Bclass=5D=2Ef13=7B font-size: 13px =21important; line-height: 16px =21=
+important; =7D
+		*=5Bclass=5D=2Ef12=7B font-size: 12px =21important; line-height: 15px =21=
+important; =7D
+		*=5Bclass=5D=2Ef11=7B font-size: 11px =21important; line-height: 14px =21=
+important; =7D
+		*=5Bclass=5D=2Ef10=7B font-size: 10px =21important; line-height: 13px =21=
+important; =7D
+		*=5Bclass=5D=2EiosLinksWhite a=7B color: =23ffffff =21important; text-dec=
+oration: none =21important; =7D
+		*=5Bclass=5D=2EiosLinksBlack a=7B color: =23000000 =21important; text-dec=
+oration: none =21important; =7D
+		*=5Bclass=5D=2Ecenter=7B text-align: center =21important; =7D
+		*=5Bclass=5D=2Eaddr a =7B color:=234d4d4d =21important;=7D
+		*=5Bclass=5D=2Edbdbdb =7B background-color:=23dbdbdb =21important;=7D
+	=09
+		*=5Bclass=5D=2Ehei22=7B height: 22px =21important; =7D
+		*=5Bclass=5D=2Ef21=7B font-size: 21px =21important; line-height: 24px =21=
+important; =7D
+		*=5Bclass=5D=2Erightpadding=7B padding-right: 35px =21important; =7D
+		*=5Bclass=5D=2Ef37=7B font-size: 37px =21important; line-height: 40px =21=
+important; =7D
+		*=5Bclass=5D=2Eleft=7B text-align: left =21important; =7D
+		 =09
+		*=5Bclass=5D=2EshowFoTABLE =7B display : block =21important; width : auto=
+ =21important; height : auto =21important; overflow : visible =21important;=
+ float : none =21important; max-height: none =21important; =7D
+		*=5Bclass=5D=2EshowFoTD =7B display:block =21important; font-size:15px =
+=21important; line-height:44px =21important; =7D
+		*=5Bclass=5D=2EbgRED =7B background-color:=23cc0000 =21important; =7D
+		*=5Bclass=5D=2EbgWT =7B background-color:=23ffffff =21important; =7D
+		*=5Bclass=5D=2EbgGRY =7B background-color:=23e5e5e5 =21important; =7D
+		*=5Bclass=5D=2EbgLTGR =7B background-color:=23f5f5f5 =21important; =7D
+		*=5Bclass=5D=2EbgBK =7B background-color:=23333333 =21important; =7D
+		*=5Bclass=5D=2Ecta-sm=7B font-size:14px =21important; line-height:20px =
+=21important; =7D
+		*=5Bclass=5D=2Eleft=7B text-align:left =21important; =7D
+		*=5Bclass=5D=2EremoveBGimg=7B background-image:none =21important; =7D
+		*=5Bclass=5D=2EshowOnMobile=7B display: block =21important; max-height: 0=
+ =21important; =7D
+	=09
+	=7D
+</style>
+<=21--=5Bif gte mso 15=5D>
+<style type=3D=22text/css=22 media=3D=22all=22>
+tr =7B font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px; =7D
+</style>
+<=21=5Bendif=5D-->
+
+ <=21--=5Bif gte mso 9=5D>
+<style type=3D=22text/css=22 media=3D=22all=22>
+=2Enon-animated =7B display : block =21important; width : auto =21veight: n=
+one =21important; =7D
+=2Eanimated =7B width:0; height:0; overflow:hidden;float:left; display:none=
+; max-height: 0; mso-hide: all; line-height:0; =7D
+</style>
+<=21=5Bendif=5D-->
+
+  <table width=3D=22100%=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+  <tbody><tr>
+    <td align=3D=22center=22 bgcolor=3D=22=23ffffff=22><table class=3D=22w3=
+20=22 style=3D=22border: 1px solid =23ffffff;=22 width=3D=22640=22 align=3D=
+=22center=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+        <tbody><tr>
+          <td width=3D=22640=22><table class=3D=22remove=22 width=3D=22640=
+=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+              <tbody><tr>
+              =20
+                <td width=3D=22640=22 align=3D=22right=22><table width=3D=
+=22640=22 cellpadding=3D=220=22 cellspacing=3D=220=22>
+                    <=21-- VIEW IN BROWSER -->
+                    <tbody><tr>
+                      <td width=3D=2220=22><img style=3D=22display: block;=
+=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/stap=
+lescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_do=
+llardeals_nc_eng/images/tra=2Egif=22 alt=3D=22=22 height=3D=2220=22 width=
+=3D=2230=22 /></td>
+                        <td style=3D=22font-family: Arial, Verdana, sans-se=
+rif; font-size: 11px; line-height: 14px; color:=23999999;=22 valign=3D=22bo=
+ttom=22 width=3D=22640=22 align=3D=22right=22><a href=3D=22https://easy=2Es=
+taples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOW=
+m0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWYTY&_ei_=3DEuTR-iHY_0WmMUFfcj4Tu6yt72=
+34jI_FgKv6d_96bPrbdip5rxM0OZEDXd6O2h7gOQHVSIRYcFzrsHvDF3R3zMBIRXwSy9lFmqHID=
+EJyc1G0dMGVcjVWYU68aQi8fFsG6VquUu551SB-o_Z9IS80uuwtYnpjhUMssf-E4Q9y0835xAU8=
+yLDRqBsb8NR6gQlWkBaOBjzKbYyFp8B4n9z1_vKf7uaUaF80x6on8AXdu2zOr-_aACxj6fhgQ5f=
+ltJyPzw=2E=22 style=3D=22width: 190px; font-family: Arial, Verdana, sans-se=
+rif; font-size: 11px; line-height: 14px; color: =23999999; text-decoration:=
+ underline;=22>view in a web browser</a>&nbsp; =7C &nbsp;<a href=3D=22https=
+://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4=
+a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBCSWY&_ei_=3DEuTR-iHY_0WmMUF=
+fcj4Tu6yt7234jI_FgKv6d_96bPrbdip5rxM0OZEDXd6O2h7gOQHVSIRYcFzrsHvDF3R3zMBIRX=
+wSy9lFmqHIDEJyc1G0dMGVcjVWYU68aQi8fFsG6VquUu551SB-o_Z9IS80uuwtYnpjhUMssf-E4=
+Q9y0835xAU8yLDRqBsb8NR6gQlWkBaOBjzKbYyFp8B4n9z1_vKf7uaUaF80x6on8AXdu2zOr-_a=
+ACxj6fhgQ5fltJyPzw=2E=22 style=3D=22width: 190px; font-family: Arial, Verda=
+na, sans-serif; font-size: 11px; line-height: 14px; color: =23999999; text-=
+decoration: underline;=22>Fran&ccedil;ais</a></td>
+                      <td width=3D=2220=22><img style=3D=22display: block;=
+=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/stap=
+lescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_do=
+llardeals_nc_eng/images/tra=2Egif=22 alt=3D=22=22 height=3D=2210=22 width=
+=3D=2230=22 /></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+              <tr> <td width=3D=2220=22><img style=3D=22display: block;=22 =
+src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplesc=
+an/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_dollar=
+deals_nc_eng/images/tra=2Egif=22 alt=3D=22=22 height=3D=221=22 width=3D=222=
+0=22 /></td></tr>
+            </tbody></table>
+        =20
+      <table class=3D=22w320=22 width=3D=22640=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22>
+		<=21-- DEALS / LOGO / WEEKLY AD --><tr>
+			<td class=3D=22w80=22 width=3D=22213=22 align=3D=22center=22 valign=3D=
+=22middle=22 bgcolor=3D=22=23ffffff=22>
+			<table class=3D=22w60 remove=22 cellpadding=3D=220=22 cellspacing=3D=220=
+=22 align=3D=22center=22>
+			<tr>
+				<td class=3D=22c50pc100pc=22 width=3D=2230=22 align=3D=22center=22><a h=
+ref=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGi=
+cJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWYCY&_ei_=3DE=
+jmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZODer=
+UzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><img =
+style=3D=22display:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Ene=
+t/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01=
+_dollar_deals/20170201_dollardeals_nc_eng/images/daily-smallr=2Epng=22 alt=
+=3D=22=22 width=3D=2225=22 height=3D=2224=22 border=3D=220=22 /></a></td>
+				<td class=3D=22c50pc100pc f12=22 align=3D=22center=22 valign=3D=22middl=
+e=22 bgcolor=3D=22=23ffffff=22 style=3D=22font-family:Arial, Verdana, sans-=
+serif; font-size:15px; line-height:18px; mso-line-height-rule: exactly;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWYCY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22 s=
+tyle=3D=22font-family:Arial, Verdana, sans-serif; color:=23cf1010; text-dec=
+oration:none;=22>DEALS CENTRE</a></td>
+			</tr></table>
+			</td>
+		=09
+		=09
+			 <td class=3D=22c50pc100pc=22 width=3D=22200=22 height=3D=2263=22 align=
+=3D=22center=22 bgcolor=3D=22=23ffffff=22>
+			 <table cellpadding=3D=220=22 cellspacing=3D=220=22>
+				<tr>
+					<td align=3D=22center=22><a href=3D=22https://easy=2Estaples=2Eca/pub/=
+cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1=
+vjE6gzfr4OVXtpKX%3DCBWATY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ran=
+M6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw=
+6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><img style=3D=22display:block; font-family:Ari=
+al, Verdana, sans-serif; font-size:22px; line-height:46px; color:=23ffffff;=
+ text-decoration:none;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i=
+5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_do=
+llar_deals/20170201_dollardeals_nc_eng/images/staples_logo=2Epng=22 width=
+=3D=22140=22 border=3D=220=22 alt=3D=22STAPLES=22 /></a></td>
+				</tr></table>
+			</td>=09
+				=09
+		=09
+			<td class=3D=22w80=22 width=3D=22227=22 align=3D=22center=22 valign=3D=
+=22middle=22 bgcolor=3D=22=23ffffff=22>
+			  <table class=3D=22w60 remove=22 cellpadding=3D=220=22 cellspacing=3D=
+=220=22>
+				<tr>
+					<td class=3D=22c50pc100pc f12=22 align=3D=22right=22 width=3D=22210=22=
+ valign=3D=22middle=22 style=3D=22line-height:19px;=22><a class=3D=22f12=22=
+ href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQ=
+GicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWAAY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22 s=
+tyle=3D=22font-family:Arial, Verdana, sans-serif; font-size:15px; line-heig=
+ht:18px; color:=23cf1010; text-decoration:none; font-weight:bold;=22>TAX <s=
+pan style=3D=22color: =23666666;=22>CENTRE</span></a>&nbsp;</td>
+					<td width=3D=228=22 align=3D=22center=22><img style=3D=22display:block=
+;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/sta=
+plescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_d=
+ollardeals_nc_eng/images/tra=2Egif=22 alt=3D=22=22 width=3D=228=22 height=
+=3D=2224=22 border=3D=220=22 /></td>
+					<td class=3D=22w160=22 width=3D=2220=22 height=3D=2263=22 align=3D=22r=
+ight=22 bgcolor=3D=22=23ffffff=22><a href=3D=22https://easy=2Estaples=2Eca/=
+pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHU=
+kCM1vjE6gzfr4OVXtpKX%3DCBWAAY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE=
+_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhc=
+BNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><img style=3D=22display:block; font-family=
+:Arial, Verdana, sans-serif; font-size:22px; line-height:46px; color:=23fff=
+fff; text-decoration:none;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2En=
+et/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-0=
+1_dollar_deals/20170201_dollardeals_nc_eng/images/right-arrow-b=2Epng=22 wi=
+dth=3D=2240=22 height=3D=2260=22 border=3D=220=22 alt=3D=22=22 /></a></td>
+				</tr></table>
+			</td>
+		</tr>
+<tr><td colspan=3D=223=22><img class=3D=22w320 remove=22 style=3D=22display=
+:block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimag=
+es/staplescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/2017=
+0201_dollardeals_nc_eng/images/tra=2Egif=22 alt=3D=22=22 width=3D=221=22 he=
+ight=3D=221=22 /></td></tr>
+</table>
+
+
+<=21-- FREE SHIPPING MODULE -->
+		<table class=3D=22w320=22 width=3D=22640=22 cellpadding=3D=220=22 cellspa=
+cing=3D=220=22>
+		<tr>
+		<=21-- DEALS CENTRE -->
+        <=21--=5Bif =21mso 9=5D><=21-->
+		<td class=3D=22w320 showFoTABLE=22 width=3D=22100%=22 align=3D=22center=
+=22 bgcolor=3D=22=23ffffff=22 style=3D=22width:0; height:0; overflow:hidden=
+;float:left; display:none; max-height: 0; mso-hide: all; line-height:0;=22>
+			<table class=3D=22w320=22 width=3D=22320=22 cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 bgcolor=3D=22=23ffffff=22>
+				<tr>				=09
+					<td class=3D=22w320=22 height=3D=2230=22 align=3D=22center=22 valign=
+=3D=22middle=22><a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gz=
+c2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtp=
+KX%3DCBWACY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAg=
+YnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_6=
+2ZzzQy7g=2E=22 style=3D=22font-family: Arial, Verdana, sans-serif; font-siz=
+e: 14px; line-height: 17px; mso-line-height-rule: exactly; color: =234d4d4d=
+; text-decoration: none;=22><b>Free Shipping</b> on orders over =2445*</a><=
+/td>
+				</tr>
+			</table>
+		</td>
+        <=21--<=21=5Bendif=5D-->
+	</tr>
+</table>
+
+
+<=21-- BTS MODULE -->
+	<table class=3D=22w320=22 width=3D=22640=22 cellpadding=3D=220=22 cellspac=
+ing=3D=220=22>
+	<tr>
+	  <td>
+		<table class=3D=22w320=22 width=3D=22100%=22 cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 bgcolor=3D=22=23ffffff=22>
+		<tr>
+		<=21-- DEALS CENTRE -->
+        <=21--=5Bif =21mso 9=5D><=21-->
+		<td class=3D=22showFoTABLE=22 align=3D=22center=22 width=3D=22100%=22 bgc=
+olor=3D=22=23ffffff=22 style=3D=22width:0; height:0; overflow:hidden;float:=
+left; display:none; max-height: 0; mso-hide: all; line-height:0;=22>
+			<table width=3D=22260=22 cellpadding=3D=220=22 cellspacing=3D=220=22 bgc=
+olor=3D=22=23ffffff=22>
+				<tr>
+					<td width=3D=2220=22 height=3D=2230=22><img style=3D=22display: block;=
+=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/stap=
+lescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_do=
+llardeals_nc_eng/images/tra=2Egif=22 alt=3D=22=22 width=3D=2220=22 height=
+=3D=2230=22 /></td>
+					<td class=3D=22f15=22 height=3D=2230=22 valign=3D=22middle=22 align=3D=
+=22left=22 style=3D=22line-height: 17px; text-align:center; vertical-align:=
+center;=22><a class=3D=22f16=22 href=3D=22https://easy=2Estaples=2Eca/pub/c=
+c?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1v=
+jE6gzfr4OVXtpKX%3DCBWAAY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM=
+6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6=
+Wlx_zd_Fm1O_62ZzzQy7g=2E=22 style=3D=22font-family: Arial, Verdana, sans-se=
+rif; display: block; font-size: 16px; line-height: 18px; color: =23cf1010; =
+text-decoration: none; vertical-align:bottom; font-weight:bold;=22>TAX <spa=
+n style=3D=22color: =23666666;=22>CENTRE</span></a></td>				=09
+					<td width=3D=2230=22 height=3D=2230=22 align=3D=22right=22 bgcolor=3D=
+=22=23ffffff=22><a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gz=
+c2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtp=
+KX%3DCBWAAY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAg=
+YnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_6=
+2ZzzQy7g=2E=22><img style=3D=22display:block; font-family:Arial, Verdana, s=
+ans-serif; font-size:22px; line-height:46px; color:=23ffffff; text-decorati=
+on:none;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysima=
+ges/staplescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/201=
+70201_dollardeals_nc_eng/images/right-arrow-b=2Epng=22 width=3D=2230=22 hei=
+ght=3D=2245=22 border=3D=220=22 alt=3D=22=22 /></a></td>
+				</tr>
+			</table>
+		</td>
+        <=21--<=21=5Bendif=5D-->
+	</tr>
+	<tr><td class=3D=22dkBG=22 colspan=3D=222=22 width=3D=22640=22 bgcolor=3D=
+=22=23dbdbdb=22 style=3D=22line-height:0px;=22><img style=3D=22display: blo=
+ck;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/s=
+taplescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201=
+_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 width=3D=22160=22 h=
+eight=3D=221=22 /></td></tr>
+</table>
+</td></tr></table>
+
+
+
+<=21-- DAILY DEALS MODULE -->
+	<table class=3D=22w320=22 width=3D=22640=22 cellpadding=3D=220=22 cellspac=
+ing=3D=220=22>
+	<tr>
+    <=21--=5Bif =21mso 9=5D><=21-->
+	  <td class=3D=22showFoTABLE=22 style=3D=22width:0; height:0; overflow:hid=
+den;float:left; display:none; max-height: 0; mso-hide: all; line-height:0;=
+=22>
+		<table class=3D=22w320 bgGRY=22 width=3D=22640=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22 bgcolor=3D=22=23ffffff=22>
+		<tr>
+		<td class=3D=22w160=22 width=3D=22320=22 align=3D=22center=22 bgcolor=3D=
+=22=23ffffff=22>
+		<img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Erespon=
+sys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_februa=
+ry/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 al=
+t=3D=22=22 width=3D=22160=22 height=3D=223=22 />
+			<table class=3D=22w160=22 width=3D=22320=22 cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 bgcolor=3D=22=23ffffff=22>
+				<tr>
+					<td class=3D=22w10=22  width=3D=2220=22 height=3D=2230=22 style=3D=22l=
+ine-height:0px;=22><img style=3D=22display: block;=22 src=3D=22https://stat=
+ic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/201=
+7_promo/02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/t=
+ra=2Egif=22 alt=3D=22=22 width=3D=2210=22 height=3D=2230=22 /></td>
+					<td class=3D=22w28=22 width=3D=2254=22 height=3D=2230=22 align=3D=22le=
+ft=22 style=3D=22line-height:0px;=22><a href=3D=22https://easy=2Estaples=2E=
+ca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaL=
+FHUkCM1vjE6gzfr4OVXtpKX%3DCBWYCY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTx=
+hhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLL=
+WhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><img style=3D=22display: block;=22 src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/=
+contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_dollardea=
+ls_nc_eng/images/daily-smallr=2Epng=22 alt=3D=22=22 width=3D=2222=22 height=
+=3D=2222=22 border=3D=220=22 /></a></td>
+					<td class=3D=22f14=22 height=3D=2230=22 valign=3D=22middle=22 align=3D=
+=22left=22 style=3D=22line-height: 17px; text-align:left; vertical-align:ce=
+nter;=22><a class=3D=22f12=22 href=3D=22https://easy=2Estaples=2Eca/pub/cc?=
+_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE=
+6gzfr4OVXtpKX%3DCBWYCY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6i=
+EiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wl=
+x_zd_Fm1O_62ZzzQy7g=2E=22 style=3D=22font-family: Arial, Verdana, sans-seri=
+f; display: block; font-size: 14px; line-height: 17px; color: =23cc0000; te=
+xt-decoration: none; vertical-align:bottom;=22>DEALS&nbsp;CENTRE</a></td>
+					<td class=3D=22remove=22 width=3D=2210=22 height=3D=2230=22><img style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 w=
+idth=3D=2210=22 height=3D=2230=22 /></td>
+					<td class=3D=22remove=22 width=3D=2210=22 height=3D=2230=22><img style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 w=
+idth=3D=2210=22 height=3D=2230=22 /></td>
+				</tr>
+			</table>
+		</td>
+	=09
+		<td class=3D=22w160=22 width=3D=22320=22 align=3D=22right=22 bgcolor=3D=
+=22=23ffffff=22>
+		<img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Erespon=
+sys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_februa=
+ry/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 al=
+t=3D=22=22 width=3D=22160=22 height=3D=223=22 />
+			<table class=3D=22w160=22 width=3D=22320=22 cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 bgcolor=3D=22=23ffffff=22>
+				<tr>
+					<td class=3D=22remove=22 width=3D=22128=22 height=3D=2230=22><img styl=
+e=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i=
+5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_do=
+llar_deals/20170201_dollardeals_nc_eng/images/tra=2Egif=22 alt=3D=22=22 wid=
+th=3D=2210=22 height=3D=2230=22 /></td>
+					<td width=3D=2258=22 height=3D=2230=22 align=3D=22right=22><a href=3D=
+=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4=
+IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWBRY&_ei_=3DEjmg-FC=
+cWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f=
+9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><img style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/weeklyflyer=2Epng=22 alt=3D=22=
+=22 width=3D=2250=22 height=3D=2230=22 border=3D=220=22 /></a></td>
+					<td class=3D=22w125=22 height=3D=2230=22 valign=3D=22middle=22 align=
+=3D=22left=22 style=3D=22line-height: 17px; text-align:left; vertical-align=
+:center;=22><a class=3D=22f12=22 href=3D=22https://easy=2Estaples=2Eca/pub/=
+cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1=
+vjE6gzfr4OVXtpKX%3DCBWBRY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ran=
+M6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw=
+6Wlx_zd_Fm1O_62ZzzQy7g=2E=22 style=3D=22font-family: Arial, Verdana, sans-s=
+erif; display: block; font-size: 14px; line-height: 17px; color: =234d4d4d;=
+ text-decoration: none; vertical-align:bottom;=22>WEEKLY&nbsp;FLYER</a></td>
+					<td class=3D=22remove=22 width=3D=2210=22 height=3D=2230=22><img style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 w=
+idth=3D=2210=22 height=3D=2230=22 /></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr><td class=3D=22dkBG=22 colspan=3D=222=22 width=3D=22640=22 bgcolor=3D=
+=22=23ffffff=22><img style=3D=22display: block;=22 src=3D=22https://static=
+=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_=
+promo/02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/bor=
+der=2Egif=22 alt=3D=22=22 width=3D=22160=22 height=3D=221=22 /></td></tr>
+</table>
+</td>
+<=21--<=21=5Bendif=5D-->
+</tr></table>
+
+<=21--END HEADER BAR MODULE -->
+
+	=09
+<=21-- SUBHEADER BAR MODULE -->
+	<table class=3D=22w320 remove=22 width=3D=22640=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>
+	<tr>
+	  <td>
+=09
+	<=21-- HEADER BAR -->
+<table class=3D=22w320=22 width=3D=22640=22 cellpadding=3D=220=22 cellspaci=
+ng=3D=220=22>
+	<tr>
+		<=21-- SHIPPING MESSAGE -->
+		<td class=3D=22w160=22 width=3D=22320=22 bgcolor=3D=22=23ffffff=22>
+			<table class=3D=22w160=22 width=3D=22320=22 cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 bgcolor=3D=22=23ffffff=22>
+				<tr>
+					<td class=3D=22w10=22 width=3D=2220=22 height=3D=2240=22 style=3D=22li=
+ne-height:0;=22><img style=3D=22display: block;=22 src=3D=22https://static=
+=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_=
+promo/02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/bor=
+der=2Egif=22 alt=3D=22=22 width=3D=2210=22 height=3D=2230=22 border=3D=220=
+=22 /></td>
+					<td class=3D=22w125=22 height=3D=2230=22 align=3D=22left=22 valign=3D=
+=22middle=22 style=3D=22line-height: 17px; text-align:left; vertical-align:=
+center;=22><a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3=
+DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3D=
+CBWACY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMp=
+C4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQ=
+y7g=2E=22 class=3D=22f13=22 style=3D=22display: block; font-family: Arial, =
+Verdana, sans-serif; font-size: 13px; line-height: 17px; color: =234d4d4d; =
+text-decoration: none;=22>FREE&nbsp;SHIPPING* on orders over =2445=2E</a></=
+td>
+					<td class=3D=22w10=22 width=3D=2210=22 height=3D=2240=22 style=3D=22li=
+ne-height:0;=22><img style=3D=22display: block;=22  src=3D=22https://static=
+=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_=
+promo/02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/tra=
+=2Egif=22 alt=3D=22=22 width=3D=2210=22 height=3D=2230=22 border=3D=220=22 =
+/></td>
+				</tr>
+			</table>
+		</td>
+		<=21-- WEEKLY AD -->
+		<td class=3D=22w160=22 width=3D=22320=22 valign=3D=22bottom=22 align=3D=
+=22right=22 bgcolor=3D=22=23ffffff=22>
+			<table class=3D=22w160=22 width=3D=22320=22 cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 bgcolor=3D=22=23ffffff=22>
+				<tr>
+					<td class=3D=22remove=22 width=3D=22140=22 height=3D=2240=22 style=3D=
+=22line-height:0;=22><img style=3D=22display: block;=22 src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2=
+017_promo/02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images=
+/tra=2Egif=22 alt=3D=22=22 width=3D=22140=22 height=3D=2230=22 border=3D=22=
+0=22 /></td>
+					<td width=3D=2210=22 height=3D=2230=22 valign=3D=22bottom=22 align=3D=
+=22right=22 style=3D=22line-height:0;=22><a href=3D=22https://easy=2Estaple=
+s=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDp=
+icaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWBRY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhS=
+tLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5=
+yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><img style=3D=22display: block;=22 =
+src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplesc=
+an/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_dollar=
+deals_nc_eng/images/weeklyflyer=2Epng=22 alt=3D=22=22 width=3D=2260=22 heig=
+ht=3D=2232=22 border=3D=220=22 /></a></td>
+					<td class=3D=22w125=22 height=3D=2230=22 valign=3D=22middle=22 align=
+=3D=22left=22 style=3D=22line-height: 17px; text-align:left; vertical-align=
+:center;=22><a class=3D=22f12=22 href=3D=22https://easy=2Estaples=2Eca/pub/=
+cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1=
+vjE6gzfr4OVXtpKX%3DCBWBRY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ran=
+M6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw=
+6Wlx_zd_Fm1O_62ZzzQy7g=2E=22 style=3D=22font-family: Arial, Verdana, sans-s=
+erif; display: block; font-size: 13px; line-height: 17px; color: =234d4d4d;=
+ text-decoration: none; vertical-align:bottom;=22>WEEKLY&nbsp;FLYER</a></td>
+					<td class=3D=22remove=22 width=3D=2210=22 height=3D=2240=22 style=3D=
+=22line-height:0;=22><img style=3D=22display: block;=22 src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2=
+017_promo/02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images=
+/border=2Egif=22 alt=3D=22=22 width=3D=2210=22 height=3D=2230=22 border=3D=
+=220=22 /></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+		<tr><td class=3D=22dkBG=22 colspan=3D=222=22 width=3D=22640=22 bgcolor=3D=
+=22=23dbdbdb=22 style=3D=22line-height:0px;=22><img style=3D=22display: blo=
+ck;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/s=
+taplescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201=
+_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 width=3D=22160=22 h=
+eight=3D=221=22 /></td></tr>
+
+</table>
+</td></tr></table>
+</td></tr></tbody></table>
+<=21--END SUBHEADER BAR MODULE -->
+	=09
+
+<=21-- DEAL CENTRE -->
+
+<table class=3D=22w320=22 width=3D=22640=22 bgcolor=3D=22=23dedede=22 cellp=
+adding=3D=220=22 cellspacing=3D=220=22>
+   <tbody>
+           <tr>
+          <td class=3D=22w320=22 colspan=3D=225=22 height=3D=2210=22 width=
+=3D=22640=22 bgcolor=3D=22=23ffffff=22><img class=3D=22w320=22 style=3D=22d=
+isplay: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/respon=
+sysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dollar_dea=
+ls/20170201_dollardeals_nc_eng/images/tra=2Egif=22 alt=3D=22=22 height=3D=
+=2210=22 width=3D=2210=22  border=3D=220=22 /></td>
+         </tr>
+         <tr>
+         <td height=3D=2258=22 width=3D=2214=22><img style=3D=22display: bl=
+ock;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/=
+staplescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/2017020=
+1_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 height=3D=2258=22 =
+width=3D=2214=22 /></td>
+         <td class=3D=22w90=22 width=3D=22168=22>
+      <table cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22100%=22>
+  <tbody>
+    <tr>
+      <td class=3D=22c50pc100pc remove=22 align=3D=22left=22 bgcolor=3D=22=
+=23ffffff=22 valign=3D=22middle=22 style=3D=22line-height:0;=22><a href=3D=
+=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4=
+IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWARY&_ei_=3DEjmg-FC=
+cWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f=
+9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22 style=3D=22=
+text-decoration:none;=22><img style=3D=22display: block;=22 src=3D=22https:=
+//static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibra=
+ry/2017_promo/02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/im=
+ages/dealctrlogo=2Epng=22 height=3D=22100=22 alt=3D=22=22 border=3D=220=22 =
+/></a></td>
+    </tr>
+    <tr class=3D=22mobile=22 style=3D=22display:none;=22>
+      <td class=3D=22c50pc100pc mobile=22 style=3D=22width:0; height:0; ove=
+rflow:hidden;float:left; display:none; max-height: 0; mso-hide: all; line-h=
+eight:0;=22 align=3D=22left=22 bgcolor=3D=22=23dedede=22 valign=3D=22middle=
+=22><a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWARY&=
+_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHii=
+MXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=
+=22 style=3D=22text-decoration:none;=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/=
+02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/dealsctrl=
+ogo1=2Epng=22 alt=3D=22=22 width=3D=22119=22 style=3D=22display: block;=22 =
+border=3D=220=22 /></a></td>
+    </tr>
+  </tbody>
+	</table></td>
+          <td valign=3D=22middle=22 class=3D=22w180=22 width=3D=22268=22><t=
+able class=3D=22w145=22 width=3D=22100%=22 align=3D=22left=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+              <tbody><tr>
+                <td class=3D=22w145=22 colspan=3D=223=22 height=3D=2211=22>=
+<img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsy=
+s=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february=
+/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=
+=3D=22=22 height=3D=2211=22 width=3D=2210=22 /></td>
+                    </tr>
+                    <tr>
+                      <td height=3D=2214=22 width=3D=221=22><img class=3D=
+=22w10=22 style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eres=
+ponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_feb=
+ruary/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22=
+ alt=3D=22=22 height=3D=2214=22 width=3D=221=22 /></td>
+                      <td class=3D=22w145=22 align=3D=22left=22><table widt=
+h=3D=22100%=22 border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22>
+ 				 <tbody>
+ <tr>
+    			       <td width=3D=221=22 height=3D=2214=22 class=3D=22w15 remove=
+=22><img class=3D=22w10=22 style=3D=22display: block;=22 src=3D=22https://s=
+tatic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/=
+2017_promo/02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/image=
+s/tra=2Egif=22 width=3D=221=22 height=3D=2214=22 /></td>
+            <td width=3D=22251=22 align=3D=22left=22 class=3D=22w145=22>
+				<div class=3D=22w140=22 style=3D=22line-height:20px; font-size:16px;=22>
+				<a class=3D=22w140=22 href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=
+=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzf=
+r4OVXtpKX%3DCBWARY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLB=
+FLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd=
+_Fm1O_62ZzzQy7g=2E=22 style=3D=22color:=231a1a1a; text-decoration:none; fon=
+t-size:16px; line-height:18px; font-family:Arial, Helvetica, sans-serif;=22>
+				<span style=3D=22color:=231a1a1a; font-size:32px; line-height:36px;=22>
+					<span style=3D=22color:=23cc0000; font-size:22px; line-height:25px;=22=
+>Save 80%</span>=09
+				</span><br />
+                    Wilson Jones Smart View Vinyl Binder, 2&quot;, White
+					<br/><span style=3D=22color:=231a1a1a; font-size:32px; line-height:36p=
+x;=22>Now <sup style=3D=22font-size:=2E6em; line-height:0; vertical-align:7=
+px=22>=24</sup>3</span>
+				</a>
+				</div>
+			</td>
+      </tr>
+ 			 </tbody>
+			</table>
+			</td>
+				</tr>
+                    <tr>
+                      <td class=3D=22w180=22 colspan=3D=222=22 height=3D=22=
+11=22><img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Ere=
+sponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_fe=
+bruary/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=
+=22 alt=3D=22=22 height=3D=2211=22 width=3D=2210=22 /></td>
+                    </tr>
+                </tbody></table></td>
+                <td class=3D=22remove=22 valign=3D=22bottom=22 width=3D=221=
+54=22 align=3D=22left=22><a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_r=
+i_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6g=
+zfr4OVXtpKX%3DCBWARY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEi=
+LBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_=
+zd_Fm1O_62ZzzQy7g=2E=22 target=3D=22_blank=22><img src=3D=22https://static=
+=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_=
+promo/02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/dod=
+1=2Egif=22 alt=3D=22dod=22 width=3D=22130=22 height=3D=22134=22 style=3D=22=
+display: block;=22 border=3D=220=22 /></a></td>
+                <td width=3D=2236=22><a href=3D=22https://easy=2Estaples=2E=
+ca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaL=
+FHUkCM1vjE6gzfr4OVXtpKX%3DCBWARY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTx=
+hhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLL=
+WhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22 target=3D=22_blank=22><img src=3D=22htt=
+ps://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentli=
+brary/2017_promo/02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng=
+/images/right-arrow-b=2Epng=22 alt=3D=22arrow=22 width=3D=2233=22 height=3D=
+=2258=22 style=3D=22display: block;=22 border=3D=220=22 /></a></td>
+              </tr>
+            =20
+            </tbody></table>
+           =20
+<=21--DEAL CENTRE ENDS -->
+
+<table class=3D=22w320=22 cellpadding=3D=220=22 cellspacing=3D=220=22 width=
+=3D=22640=22>
+	         <tbody><tr>
+                <td style=3D=22border-top: 1px solid =23ffffff;=22 class=3D=
+=22hei10=22 align=3D=22center=22 bgcolor=3D=22=23ffffff=22><img class=3D=22=
+w320 hei10=22 style=3D=22display:block;=22 src=3D=22https://static=2Ecdn=2E=
+responsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_=
+february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/tra=2Egif=22=
+ height=3D=2210=22 width=3D=221=22/></td>
+              </tr>
+            </tbody></table>
+
+
+<=21-- CREATIVE BODY BEGINS -->
+
+	 <=21--HERO BEGINS -->
+    =20
+	<table class=3D=22w300=22 width=3D=22640=22 bgcolor=3D=22=23ffffff=22 cell=
+padding=3D=220=22 cellspacing=3D=220=22>
+                 <tbody>
+                  <tr>
+                    <td class=3D=22remove=22 style=3D=22line-height:0;=22><=
+a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlY=
+QGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWBTY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22 s=
+tyle=3D=22text-decoration:none;=22><img src=3D=22https://static=2Ecdn=2Eres=
+ponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_feb=
+ruary/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/hero640_eng_1_3=
+0=2Ejpg=22 width=3D=22640=22 border=3D=220=22 style=3D=22display: block;=22=
+ /></a></td>
+                  </tr>
+                    <tr>
+                    <td class=3D=22mobile=22 style=3D=22width:0; height:0; =
+overflow:hidden;float:left; display:none; max-height: 0; mso-hide: all; lin=
+e-height:0;=22><a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc=
+2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpK=
+X%3DCBWBTY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgY=
+nQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62=
+ZzzQy7g=2E=22 style=3D=22text-decoration:none;=22><img src=3D=22https://sta=
+tic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/20=
+17_promo/02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/=
+hero320_1_30=2Ejpg=22 width=3D=22320=22 border=3D=220=22 style=3D=22display=
+: block;=22 /></a></td>
+                  </tr>
+                 =20
+      </tbody></table>
+	 <=21--HERO ENDS -->
+    =20
+<table class=3D=22w320=22 cellpadding=3D=220=22 cellspacing=3D=220=22 width=
+=3D=22640=22>
+	         <tbody>
+              <tr>
+                <td align=3D=22center=22 bgcolor=3D=22=23ffffff=22><img cla=
+ss=3D=22w320=22 style=3D=22display:block;=22 src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/=
+02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/tra=2Egif=
+=22 height=3D=2210=22 width=3D=22640=22/></td>
+              </tr>
+              <tr>
+                <td align=3D=22center=22 bgcolor=3D=22=23cccccc=22><img cla=
+ss=3D=22w320=22 style=3D=22display:block;=22 src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/=
+02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/shadow=2E=
+jpg=22 height=3D=2210=22 width=3D=22640=22/></td>
+              </tr>
+            </tbody></table>
+           =20
+<=21-- Banner 1 -->
+	<table class=3D=22w320=22 cellpadding=3D=220=22 cellspacing=3D=220=22 widt=
+h=3D=22640=22>
+              <tbody>
+           =20
+                =20
+                <tr>
+                  <td class=3D=22c50pc100pc=22 align=3D=22left=22 bgcolor=
+=3D=22=23ffffff=22 valign=3D=22top=22 width=3D=22320=22><table class=3D=22w=
+320=22 cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22320=22>
+                      <tbody>
+                        <tr>
+                          <td height=3D=2220=22 width=3D=2220=22><img style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 h=
+eight=3D=2220=22 width=3D=2220=22 /></td>
+                          <td><table class=3D=22w300=22 cellpadding=3D=220=
+=22 cellspacing=3D=220=22 width=3D=22320=22>
+                              <tbody>
+                               <tr>
+                                <td class=3D=22hei10=22 width=3D=2210=22 st=
+yle=3D=22line-height:0;=22><img class=3D=22hei10=22 style=3D=22display: blo=
+ck;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/s=
+taplescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201=
+_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 height=3D=2220=22 w=
+idth=3D=2210=22 /></td>
+                              </tr>
+                              <tr>
+                                <td class=3D=22f20=22 style=3D=22font-size:=
+ 22px; line-height: 25px; mso-line-height-rule: exactly;=22 align=3D=22left=
+=22><a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWBWY&=
+_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHii=
+MXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=
+=22 style=3D=22font-family: Arial, Verdana, sans-serif; color: =23cc0000; t=
+ext-decoration: none; font-weight:none;=22>Get 15 Bonus AIR MILES<span styl=
+e=3D=22vertical-align: 9px; font-size:10px;=22>&reg;&dagger;</span></a></td>
+                              </tr>
+                              <tr>
+                                <td class=3D=22f18=22 style=3D=22font-size:=
+ 19px; line-height: 21px; mso-line-height-rule: exactly;=22 align=3D=22left=
+=22><a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWBWY&=
+_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHii=
+MXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=
+=22 style=3D=22font-family: Arial, Verdana, sans-serif; color: =231a1a1a; t=
+ext-decoration: none; font-weight:none;=22>when you buy a case of Staples<s=
+pan style=3D=22vertical-align: 6px; font-size:10px;=22>&reg;</span> FSC-cer=
+tified copy paper=2E</a></td>
+                              </tr>
+                               <tr>
+                                <td class=3D=22hei10=22 height=3D=2220=22 w=
+idth=3D=2210=22 style=3D=22line-height:0;=22><img class=3D=22hei10=22 style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 h=
+eight=3D=2220=22 width=3D=2210=22 /></td>
+                              </tr>
+                            =20
+                          =20
+                <tr>
+                 <td align=3D=22left=22><table cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 width=3D=22110=22>
+                       <tbody><tr>
+                           <td align=3D=22left=22 style=3D=22border:2px sol=
+id =23cc0000;=22><table bgcolor=3D=22=23ffffff=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22 width=3D=22110=22>
+                           <tbody><tr>
+                           <td width=3D=22110=22 style=3D=22line-height: 19=
+px;=22 height=3D=2233=22 align=3D=22center=22><a href=3D=22https://easy=2Es=
+taples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOW=
+m0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWBWY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFv=
+WuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52Cd=
+gDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22 style=3D=22display: block; fon=
+t-family: Arial, Verdana, sans-serif; font-size: 16px; line-height: 19px; c=
+olor: =23cc0000; text-decoration: none;=22>SHOP NOW</a></td>
+                          </tr>
+                        </tbody></table></td>
+                       </tr>
+                   </tbody></table></td>
+                </tr>
+                            =20
+                           =20
+                               <tr>
+                                <td class=3D=22hei10=22 height=3D=2220=22 w=
+idth=3D=2210=22 style=3D=22line-height:0;=22><img class=3D=22hei10=22 style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 h=
+eight=3D=2220=22 width=3D=2210=22 /></td>
+                              </tr>
+                             =20
+                           =20
+                              </tbody>
+                          </table></td>
+                          <td class=3D=22w20=22 height=3D=2220=22 width=3D=
+=221=22><img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2E=
+responsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_=
+february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=
+=22 alt=3D=22=22 height=3D=2220=22 width=3D=221=22 /></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                  <td class=3D=22c50pc100pc remove=22 align=3D=22right=22 b=
+gcolor=3D=22=23ffffff=22 valign=3D=22bottom=22 width=3D=22220=22><table cel=
+lpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22220=22>
+                      <tbody>
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22bottom=22 wi=
+dth=3D=22220=22><table border=3D=220=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22 width=3D=22100%=22>
+                              <tbody>
+                              =20
+                                <tr>
+                                  <td align=3D=22left=22 valign=3D=22bottom=
+=22 width=3D=22260=22><a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=
+=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzf=
+r4OVXtpKX%3DCBWBWY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLB=
+FLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd=
+_Fm1O_62ZzzQy7g=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/=
+i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_d=
+ollar_deals/20170201_dollardeals_nc_eng/images/ban1=2Ejpg=22 alt=3D=22=22 t=
+itle=3D=22=22 width=3D=22300=22 style=3D=22display:block;=22 border=3D=220=
+=22 /></a></td>
+                                </tr>
+                              =20
+                              </tbody>
+                            </table></td>
+                        </tr>
+                       =20
+                      </tbody>
+                    </table></td>
+                </tr>
+                <tr>
+	=09
+        <=21--=5Bif =21mso 9=5D><=21-->
+		<td class=3D=22showFoTABLE=22 align=3D=22center=22 width=3D=22100%=22 bgc=
+olor=3D=22=23ffffff=22 style=3D=22width:0; height:0; overflow:hidden;float:=
+left; display:none; max-height: 0; mso-hide: all; line-height:0;=22>
+			<table width=3D=22280=22 cellpadding=3D=220=22 cellspacing=3D=220=22 bgc=
+olor=3D=22=23ffffff=22>
+				<tr>
+                  <td align=3D=22right=22 valign=3D=22bottom=22 width=3D=22=
+320=22><table border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 =
+width=3D=22100%=22>
+                        <tbody>
+                          <tr>
+                            <td class=3D=22c50pc100pc=22 align=3D=22center=
+=22 valign=3D=22bottom=22 width=3D=22320=22><a href=3D=22https://easy=2Esta=
+ples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0=
+qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWBWY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWu=
+NhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgD=
+KW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><img class=3D=22w320=22 src=3D=
+=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/con=
+tentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_dollardeals_=
+nc_eng/images/ban1=2Ejpg=22 alt=3D=22=22 title=3D=22=22 width=3D=22280=22 s=
+tyle=3D=22display:block;=22 border=3D=220=22 /></a></td>
+                          </tr>
+                           <tr>
+                                <td class=3D=22remove=22 height=3D=2220=22 =
+width=3D=2210=22 style=3D=22line-height:0;=22><img class=3D=22hei10=22 styl=
+e=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i=
+5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_do=
+llar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 =
+height=3D=2220=22 width=3D=2210=22 /></td>
+                           </tr>
+                           =20
+                       </tbody>
+                  </table></td>
+                 </tr>
+			</table>
+		</td>
+     <=21-- <=21=5Bendif=5D-->
+				</tr>
+              </tbody>
+            </table>
+
+<=21-- Banner 1 ENDS -->
+
+<table class=3D=22w320=22 cellpadding=3D=220=22 cellspacing=3D=220=22 width=
+=3D=22640=22>
+	         <tbody>
+              <tr>
+                <td align=3D=22center=22 bgcolor=3D=22=23ffffff=22><img cla=
+ss=3D=22w320=22 style=3D=22display:block;=22 src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/=
+02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/tra=2Egif=
+=22 height=3D=2210=22 width=3D=22640=22/></td>
+              </tr>
+              <tr>
+                <td align=3D=22center=22 bgcolor=3D=22=23cccccc=22><img cla=
+ss=3D=22w320=22 style=3D=22display:block;=22 src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/=
+02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/tra=2Egif=
+=22 height=3D=221=22 width=3D=22640=22/></td>
+              </tr>
+            </tbody></table>
+           =20
+           =20
+<=21-- Banner 2 -->
+	<table class=3D=22w320=22 cellpadding=3D=220=22 cellspacing=3D=220=22 widt=
+h=3D=22640=22>
+              <tbody>
+           =20
+              <tr>
+                 <td class=3D=22remove=22 height=3D=2210=22 width=3D=2210=
+=22 style=3D=22line-height:0;=22><img class=3D=22remove=22 style=3D=22displ=
+ay: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysi=
+mages/staplescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/2=
+0170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 height=3D=22=
+10=22 width=3D=2210=22 /></td>
+             </tr>
+                <tr>
+                  <td class=3D=22c50pc100pc=22 align=3D=22left=22 bgcolor=
+=3D=22=23ffffff=22 valign=3D=22top=22 width=3D=22320=22><table class=3D=22w=
+320=22 cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22320=22>
+                      <tbody>
+                        <tr>
+                          <td height=3D=2220=22 width=3D=2220=22><img style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 h=
+eight=3D=2220=22 width=3D=2220=22 /></td>
+                          <td><table class=3D=22w300=22 cellpadding=3D=220=
+=22 cellspacing=3D=220=22 width=3D=22320=22>
+                              <tbody>
+                               <tr>
+                                <td class=3D=22hei20=22 height=3D=2220=22 w=
+idth=3D=2210=22 style=3D=22line-height:0;=22><img class=3D=22hei20=22 style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 h=
+eight=3D=2220=22 width=3D=2210=22 /></td>
+                              </tr>
+                              <tr>
+                                <td style=3D=22font-size: 22px; line-height=
+: 24px; mso-line-height-rule: exactly;=22 align=3D=22left=22><a href=3D=22h=
+ttps://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqA=
+UcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWBAY&_ei_=3DEjmg-FCcWuW=
+G_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5=
+-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22 style=3D=22font=
+-family: Arial, Verdana, sans-serif; color: =23cc0000; text-decoration: non=
+e; font-weight:none;=22>Save up to 30%</a></td>
+                              </tr>
+                               <tr>
+                                <td class=3D=22remove=22 height=3D=225=22 w=
+idth=3D=2210=22 style=3D=22line-height:0;=22><img class=3D=22hei10=22 style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 h=
+eight=3D=225=22 width=3D=2210=22 /></td>
+                              </tr>
+                              <tr>
+                                <td class=3D=22f18=22 style=3D=22font-size:=
+ 20px; line-height: 23px; mso-line-height-rule: exactly;=22 align=3D=22left=
+=22><a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWBAY&=
+_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHii=
+MXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=
+=22 style=3D=22font-family: Arial, Verdana, sans-serif; color: =231a1a1a; t=
+ext-decoration: none; font-weight:none;=22>Laminating and Binding Sale=21</=
+a></td>
+                              </tr>
+                               <tr>
+                                <td class=3D=22hei10=22 height=3D=2220=22 w=
+idth=3D=2210=22 style=3D=22line-height:0;=22><img class=3D=22hei10=22 style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 h=
+eight=3D=2220=22 width=3D=2210=22 /></td>
+                              </tr>
+                            =20
+                          =20
+                <tr>
+                 <td align=3D=22left=22><table cellpadding=3D=220=22 cellsp=
+acing=3D=220=22 width=3D=22110=22>
+                       <tbody><tr>
+                           <td align=3D=22left=22 style=3D=22border:2px sol=
+id =23cc0000;=22><table bgcolor=3D=22=23ffffff=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22 width=3D=22110=22>
+                           <tbody><tr>
+                           <td width=3D=22110=22 style=3D=22line-height: 19=
+px;=22 height=3D=2233=22 align=3D=22center=22><a href=3D=22https://easy=2Es=
+taples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOW=
+m0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWBAY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFv=
+WuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52Cd=
+gDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22 style=3D=22display: block; fon=
+t-family: Arial, Verdana, sans-serif; font-size: 16px; line-height: 18px; c=
+olor: =23cc0000; text-decoration: none;=22>SHOP NOW</a></td>
+                          </tr>
+                        </tbody></table></td>
+                       </tr>
+                   </tbody></table></td>
+                </tr>
+                            =20
+                           =20
+                               <tr>
+                                <td class=3D=22hei10=22 height=3D=2220=22 w=
+idth=3D=2210=22 style=3D=22line-height:0;=22><img class=3D=22hei10=22 style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 h=
+eight=3D=2220=22 width=3D=2210=22 /></td>
+                              </tr>
+                             =20
+                           =20
+                              </tbody>
+                          </table></td>
+                          <td class=3D=22w20=22 height=3D=2220=22 width=3D=
+=221=22><img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2E=
+responsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_=
+february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=
+=22 alt=3D=22=22 height=3D=2220=22 width=3D=221=22 /></td>
+                        </tr>
+                      </tbody>
+                    </table></td>
+                  <td class=3D=22c50pc100pc remove=22 align=3D=22right=22 b=
+gcolor=3D=22=23ffffff=22 valign=3D=22bottom=22 width=3D=22220=22><table cel=
+lpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22220=22>
+                      <tbody>
+                        <tr>
+                          <td align=3D=22center=22 valign=3D=22bottom=22 wi=
+dth=3D=22220=22><table border=3D=220=22 cellpadding=3D=220=22 cellspacing=
+=3D=220=22 width=3D=22100%=22>
+                              <tbody>
+                              =20
+                                <tr>
+                                  <td align=3D=22left=22 valign=3D=22bottom=
+=22 width=3D=22260=22><a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=
+=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzf=
+r4OVXtpKX%3DCBWBAY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLB=
+FLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd=
+_Fm1O_62ZzzQy7g=2E=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/=
+i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_d=
+ollar_deals/20170201_dollardeals_nc_eng/images/ban2=2Ejpg=22 alt=3D=22=22 w=
+idth=3D=22300=22 class=3D=22c50pc100pc=22 style=3D=22display:block;=22 bord=
+er=3D=220=22 /></a></td>
+                                </tr>
+                              </tbody>
+                            </table></td>
+                        </tr>
+                       =20
+                      </tbody>
+                    </table></td>
+                </tr>
+                <tr>
+	=09
+        <=21--=5Bif =21mso 9=5D><=21-->
+		<td class=3D=22showFoTABLE=22 align=3D=22center=22 width=3D=22100%=22 bgc=
+olor=3D=22=23ffffff=22 style=3D=22width:0; height:0; overflow:hidden;float:=
+left; display:none; max-height: 0; mso-hide: all; line-height:0;=22>
+			<table width=3D=22280=22 cellpadding=3D=220=22 cellspacing=3D=220=22 bgc=
+olor=3D=22=23ffffff=22>
+				<tr>
+                  <td align=3D=22right=22 valign=3D=22bottom=22 width=3D=22=
+320=22><table border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 =
+width=3D=22100%=22>
+                        <tbody>
+                          <tr>
+                            <td class=3D=22c50pc100pc=22 align=3D=22center=
+=22 valign=3D=22bottom=22 width=3D=22320=22><a href=3D=22https://easy=2Esta=
+ples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0=
+qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWBAY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWu=
+NhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgD=
+KW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><img class=3D=22w300=22 src=3D=
+=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/con=
+tentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_dollardeals_=
+nc_eng/images/ban2=2Ejpg=22 alt=3D=22=22 title=3D=22=22 width=3D=22280=22 s=
+tyle=3D=22display:block;=22 border=3D=220=22 /></a></td>
+                          </tr>
+                           <tr>
+                                <td class=3D=22hei10=22 height=3D=2220=22 w=
+idth=3D=2210=22 style=3D=22line-height:0;=22><img class=3D=22hei10=22 style=
+=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/staplescan/contentlibrary/2017_promo/02_february/02-01_dol=
+lar_deals/20170201_dollardeals_nc_eng/images/border=2Egif=22 alt=3D=22=22 h=
+eight=3D=2220=22 width=3D=2210=22 /></td>
+                           </tr>
+                           =20
+                       </tbody>
+                  </table></td>
+                 </tr>
+			</table>
+		</td>
+     <=21-- <=21=5Bendif=5D-->
+				</tr>
+              </tbody>
+            </table>
+
+<=21-- Banner 2 ENDS -->
+
+
+<=21-- CREATIVE BODY ENDS -->
+
+<table class=3D=22w320=22 cellpadding=3D=220=22 cellspacing=3D=220=22 width=
+=3D=22640=22>
+	         <tbody>
+	         <tr>
+                <td class=3D=22hei10=22 align=3D=22center=22 bgcolor=3D=22=
+=23ffffff=22><img class=3D=22w320 hei10=22 style=3D=22display:block;=22 src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/=
+contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_dollardea=
+ls_nc_eng/images/tra=2Egif=22 height=3D=2210=22 width=3D=221=22 alt=3D=22=
+=22 /></td>
+              </tr>
+             =20
+            </tbody></table> =20
+           =20
+<=21--FOOTER BEGINS-->
+
+		<table class=3D=22w320=22 width=3D=22640=22 cellpadding=3D=220=22 cellspa=
+cing=3D=220=22 align=3D=22center=22>
+			<tbody>
+				<tr><td class=3D=22dkBG=22 colspan=3D=223=22 bgcolor=3D=22=23dbdbdb=22>=
+<img class=3D=22w320=22 style=3D=22display: block;=22 src=3D=22https://stat=
+ic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/201=
+7_promo/02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/t=
+ra=2Egif=22 alt=3D=22=22 width=3D=22160=22 height=3D=221=22 /></td></tr>
+				<tr>
+			    	<td class=3D=22c50pc100pc=22 width=3D=22319=22 align=3D=22center=22=
+ bgcolor=3D=22=23f5f5f5=22>
+					<table class=3D=22c50pc100pc=22 width=3D=22319=22 cellpadding=3D=220=
+=22 cellspacing=3D=220=22>
+					<tr>
+						<td width=3D=2210=22 height=3D=2262=22 style=3D=22line-height:0;=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/tra=2Egif=22 alt=3D=
+=22=22 width=3D=2210=22 height=3D=2262=22 border=3D=220=22 /></td>
+						<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22><=
+a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlY=
+QGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWBCY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/app-icon=2Epng=22 wid=
+th=3D=2244=22 height=3D=2244=22 border=3D=220=22 alt=3D=22Staples=22 /></a>=
+</td>
+						<td width=3D=2270=22 height=3D=2262=22 align=3D=22center=22><div styl=
+e=3D=22line-height: 20px;=22><a href=3D=22https://easy=2Estaples=2Eca/pub/c=
+c?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1v=
+jE6gzfr4OVXtpKX%3DCBWCRY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM=
+6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6=
+Wlx_zd_Fm1O_62ZzzQy7g=2E=22 style=3D=22font-family: Arial, Verdana, Helveti=
+ca, sans-serif; font-size: 12px; line-height: 20px; color: =234d4d4d; font-=
+weight:bold; text-decoration:none;=22>Get app</a></div></td>
+						<td width=3D=225=22 height=3D=2262=22 align=3D=22center=22><div align=
+=3D=22center=22 style=3D=22font-family: Arial, Verdana, Helvetica, sans-ser=
+if; font-size: 12px; line-height: 20px; color: =234d4d4d; font-weight:bold;=
+ text-decoration:none;=22>&=23124;</div></td>
+						<td width=3D=2285=22 height=3D=2262=22 align=3D=22center=22><div styl=
+e=3D=22line-height: 20px;=22><a href=3D=22https://easy=2Estaples=2Eca/pub/c=
+c?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1v=
+jE6gzfr4OVXtpKX%3DCBWCTY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM=
+6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6=
+Wlx_zd_Fm1O_62ZzzQy7g=2E=22 style=3D=22font-family: Arial, Verdana, Helveti=
+ca, sans-serif; font-size: 12px; line-height: 20px; color: =234d4d4d; font-=
+weight:bold; text-decoration:none;=22>&nbsp;Find store</a></div></td>
+						<td width=3D=225=22 height=3D=2262=22 align=3D=22center=22><div align=
+=3D=22center=22 style=3D=22font-family: Arial, Verdana, Helvetica, sans-ser=
+if; font-size: 12px; line-height: 20px; color: =234d4d4d; font-weight:bold;=
+ text-decoration:none;=22>&=23124;</div></td>
+						<td width=3D=2285=22 height=3D=2262=22 align=3D=22center=22><div styl=
+e=3D=22line-height: 20px;=22><a href=3D=22https://easy=2Estaples=2Eca/pub/c=
+c?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1v=
+jE6gzfr4OVXtpKX%3DCBWCWY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM=
+6iEiLBFLOZEAgYnQMpC4grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6=
+Wlx_zd_Fm1O_62ZzzQy7g=2E=22  style=3D=22font-family: Arial, Verdana, Helvet=
+ica, sans-serif; font-size: 12px; line-height: 20px; color: =234d4d4d; font=
+-weight:bold; text-decoration:none;=22>&nbsp;Contact us</a></div></td>
+						<td width=3D=2210=22 height=3D=2262=22><img style=3D=22display: block=
+;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/sta=
+plescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_d=
+ollardeals_nc_eng/images/tra=2Egif=22 alt=3D=22=22 width=3D=2210=22 height=
+=3D=2262=22 border=3D=220=22 /></td>
+					=09
+					</tr>
+					</table>
+				</td>
+				<td class=3D=22c50pc100pc=22 width=3D=221=22 height=3D=2210=22 bgcolor=
+=3D=22=23f5f5f5=22 style=3D=22line-height:0;=22><img style=3D=22display: bl=
+ock;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/=
+staplescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/2017020=
+1_dollardeals_nc_eng/images/tra=2Egif=22 alt=3D=22=22 width=3D=221=22 heigh=
+t=3D=2210=22 border=3D=220=22 /></td>
+				<td class=3D=22c50pc100pc remove=22 width=3D=22319=22 align=3D=22center=
+=22 bgcolor=3D=22=23f5f5f5=22>
+					<table class=3D=22c50pc100pc remove=22 width=3D=22319=22 cellpadding=
+=3D=220=22 cellspacing=3D=220=22>
+						<tr>
+							<td width=3D=2220=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsy=
+s=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february=
+/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/tra=2Egif=22 alt=3D=
+=22=22 width=3D=2220=22 height=3D=2242=22 border=3D=220=22 /></td>
+							<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWCAY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/facebook-icon=2Epng=
+=22 alt=3D=22facebook=22 width=3D=2246=22 height=3D=2242=22 border=3D=220=
+=22 /></a></td>
+							<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWCCY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/twitter-icon=2Epng=22=
+ alt=3D=22twitter=22 width=3D=2246=22 height=3D=2242=22 border=3D=220=22 />=
+</a></td>
+							<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWDRY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/pintrest-icon=2Epng=
+=22 alt=3D=22pinterest=22 width=3D=2246=22 height=3D=2242=22 border=3D=220=
+=22 /></a></td>
+							<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWDTY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/youtube-icon=2Epng=22=
+ alt=3D=22youtube=22 width=3D=2246=22 height=3D=2242=22 border=3D=220=22 />=
+</a></td>
+							<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWDWY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/easyblog-icon=2Epng=
+=22 alt=3D=22easy blog=22 width=3D=2246=22 height=3D=2242=22 border=3D=220=
+=22 /></a></td>
+							<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWDAY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/airmiles-icon=2Epng=
+=22 alt=3D=22air miles=22 width=3D=2246=22 height=3D=2242=22 border=3D=220=
+=22 /></a></td>
+							<td width=3D=2220=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsy=
+s=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february=
+/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/tra=2Egif=22 alt=3D=
+=22=22 width=3D=2210=22 height=3D=2262=22 border=3D=220=22 /></td>
+						</tr>
+					</table>
+			    </td></tr>
+               =20
+                <tr>
+                  <=21--=5Bif =21mso 9=5D><=21-->
+                  <td class=3D=22showFoTABLE=22 colspan=3D=223=22 style=3D=
+=22width:0; height:0; overflow:hidden;float:left; display:none; max-height:=
+ 0; mso-hide: all; line-height:0;=22>
+                  <table class=3D=22c50pc100pc=22 width=3D=22319=22 cellpad=
+ding=3D=220=22 cellspacing=3D=220=22 bgcolor=3D=22=23f5f5f5=22>
+						<tr>
+							<td width=3D=2220=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsy=
+s=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february=
+/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/tra=2Egif=22 alt=3D=
+=22=22 width=3D=2220=22 height=3D=2242=22 border=3D=220=22 /></td>
+							<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWCAY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/facebook-icon=2Epng=
+=22 alt=3D=22facebook=22 width=3D=2246=22 height=3D=2242=22 border=3D=220=
+=22 /></a></td>
+							<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWCCY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/twitter-icon=2Epng=22=
+ alt=3D=22twitter=22 width=3D=2246=22 height=3D=2242=22 border=3D=220=22 />=
+</a></td>
+							<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWDRY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/pintrest-icon=2Epng=
+=22 alt=3D=22pinterest=22 width=3D=2246=22 height=3D=2242=22 border=3D=220=
+=22 /></a></td>
+							<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWDTY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/youtube-icon=2Epng=22=
+ alt=3D=22youtube=22 width=3D=2246=22 height=3D=2242=22 border=3D=220=22 />=
+</a></td>
+							<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWDWY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/easyblog-icon=2Epng=
+=22 alt=3D=22easy blog=22 width=3D=2246=22 height=3D=2242=22 border=3D=220=
+=22 /></a></td>
+							<td width=3D=2246=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJl=
+YQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCBWDAY&_ei_=
+=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4grHiiMXiZ=
+ODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7g=2E=22><=
+img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february/=
+02-01_dollar_deals/20170201_dollardeals_nc_eng/images/airmiles-icon=2Epng=
+=22 alt=3D=22air miles=22 width=3D=2246=22 height=3D=2242=22 border=3D=220=
+=22 /></a></td>
+							<td width=3D=2220=22 height=3D=2262=22 style=3D=22line-height:0;=22>=
+<img style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=2Eresponsy=
+s=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/02_february=
+/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/tra=2Egif=22 alt=3D=
+=22=22 width=3D=2210=22 height=3D=2262=22 border=3D=220=22 /></td>
+						</tr>
+					</table>
+                  </td>
+                  <=21--<=21=5Bendif=5D-->
+                </tr>
+                </tbody></table>
+<=21--FOOTER ENDS-->
+		=20
+		=20
+=09
+		<table class=3D=22w320=22 width=3D=22640=22 cellpadding=3D=220=22 cellspa=
+cing=3D=220=22>
+			<tr><td class=3D=22w320=22 width=3D=22640=22 height=3D=2220=22><img clas=
+s=3D=22w320=22 style=3D=22display: block;=22 src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/staplescan/contentlibrary/2017_promo/=
+02_february/02-01_dollar_deals/20170201_dollardeals_nc_eng/images/tra=2Egif=
+=22 width=3D=22640=22 height=3D=2220=22 border=3D=220=22 /></td></tr>
+			<tr>
+				<td>
+					<table class=3D=22w320=22 width=3D=22640=22 cellpadding=3D=220=22 cell=
+spacing=3D=220=22>
+						<tr>
+							<td width=3D=2210=22 height=3D=2220=22><img style=3D=22display: bloc=
+k;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/st=
+aplescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_=
+dollardeals_nc_eng/images/tra=2Egif=22 width=3D=2210=22 height=3D=2220=22 b=
+order=3D=220=22 /></td>
+							<td class=3D=22disclaimer=22 width=3D=22600=22 align=3D=22center=22 =
+style=3D=22font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 1=
+1px; line-height: 16px; color: =234d4d4d;=22>
+								*For all orders over =2445, fast and free shipping is available on =
+most items=2E
+                                <br/><br/>
+                                STAPLES<sup>&reg;</sup> and Make MORE Happe=
+n<sup>&trade;</sup> are registered trademarks of Staples, Inc=2E, used unde=
+r license by Staples Canada Inc=2E<br/><br/>
+                                <sup>&reg;&dagger;&trade;&dagger;</sup> Tra=
+demarks of AIR MILES International Trading B=2EV=2E Used under license by L=
+oyaltyOne, Co=2E and Staples Canada Inc=2E<br/><br/>
+								Make sure this email doesn't end up in your junk folder=2E Add <a h=
+ref=3D=22mailto:staples=40easy=2Estaples=2Eca=22 style=3D=22color:=230092db=
+; text-decoration: none;=22>staples=40easy=2Estaples=2Eca</a> to your addre=
+ss book=2E
+								<br/><br/>
+									<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DY=
+QpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCB=
+WDCY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4=
+grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7=
+g=2E=22 style=3D=22color:=230092db; text-decoration: none;=22>Unsubscribe=
+=2E</a> You can always come back=2E
+								<br/><br/>
+									<a href=3D=22https://easy=2Estaples=2Eca/pub/cc?_ri_=3DX0Gzc2X%3DY=
+QpglLjHJlYQGicJ6aI4IUqAUcJ4a7yLzfdjYOWm0qDpicaLFHUkCM1vjE6gzfr4OVXtpKX%3DCB=
+YRTY&_ei_=3DEjmg-FCcWuWG_E-Dbb5CL0ctFvWuNhStLTxhhE_ranM6iEiLBFLOZEAgYnQMpC4=
+grHiiMXiZODerUzdQ0f9Ck5-gXKmD1TUVU52CdgDKW5yxLLWhcBNTw6Wlx_zd_Fm1O_62ZzzQy7=
+g=2E=22 style=3D=22color:=230092db; text-decoration: none;=22>Privacy Polic=
+y=2E</a>
+								<br/><br/>
+									Staples Canada Inc=2E, 6 Staples Ave=2E, Richmond Hill, ON, L4B 4W=
+3 - 1-877-360-8500
+								</td>
+							<td width=3D=2210=22 height=3D=2220=22><img style=3D=22display: bloc=
+k;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/st=
+aplescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_=
+dollardeals_nc_eng/images/tra=2Egif=22 width=3D=2210=22 height=3D=2220=22 b=
+order=3D=220=22 /></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr><td width=3D=2230=22 height=3D=2230=22><img style=3D=22display: bloc=
+k;=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/st=
+aplescan/contentlibrary/2017_promo/02_february/02-01_dollar_deals/20170201_=
+dollardeals_nc_eng/images/tra=2Egif=22 width=3D=2230=22 height=3D=2230=22 b=
+order=3D=220=22 /></td></tr>
+		</table>
+
+<=21-- GMAIL APP ON IOS HACK BEGINS -->
+<div style=3D=22display:none; white-space:nowrap; font:15px courier; line-h=
+eight:0;=22>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+</div>
+<=21-- GMAIL APP ON IOS HACK ENDS -->		=09
+</td></tr></tbody></table><br></body>
+</html>

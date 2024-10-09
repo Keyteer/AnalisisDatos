@@ -1,0 +1,1373 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 19705 invoked from network); 01 Feb 2017 07:04:11 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by pt02.futurequest.net ([69.5.6.173])
+  with FQDP via TCP; 01 Feb 2017 07:04:11 -0000
+Received: (qmail 2531 invoked from network); 1 Feb 2017 07:04:11 -0000
+Received: from m62.webcorp.ro (m62.webcorp.ro [185.96.160.73])
+  by mx02.futurequest.net ([69.5.6.172])
+  with ESMTP via TCP; 01 Feb 2017 07:04:10 -0000
+Content-Type: multipart/alternative;
+ boundary="=_d68bf20cd3ff4ba546b6a16ab34daff6"
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=creatoriideoferte.eu;
+	s=default; t=1485932614;
+	bh=UxArHa/ucXrxdUzez2zqF69Vav+1Lzvs/Omz9xJPgJQ=;
+	h=From:Reply-To:List-Unsubscribe:Subject:To:Date:From;
+	b=WPtVk49oqP/dubP67PQd0xkSqNakDwu3O4erzOf68mh4YA3XgDhmbnD8bSQoManJn
+	 ze7hdsBM4EYMzCAt1wB1JxWDTqimAhcKXrYtjnOrTq4Cr7Znznv091PBXGCDzjOkvP
+	 Ko4NkLYTXpg5eAx/BXWPgXfY6pyJwMAlGsX6n/c8=
+MIME-Version: 1.0
+From: CreatoriideOferte.ro <news@creatoriideoferte.eu>
+Reply-To: CreatoriideOferte.ro <news@creatoriideoferte.eu>
+Sender: CreatoriideOferte.ro <news@creatoriideoferte.eu>
+Precedence: bulk
+List-Unsubscribe: <mailto:nunsub-2052-431124-298242409-e989b@creatoriideoferte.eu>,
+ <http://nl.creatoriideoferte.eu/unsubscribe/2052/431124/298242409/e989b2818a521190fcdf6a4c3c791f71>
+Subject: =?utf-8?q?24_proceduri_pentru_sl=C4=83bire_rapid=C4=83_cu_69_lei_/_Pachet?=
+ =?utf-8?q?_cosmetic=C4=83_pentru_c=C3=A2ini_=C8=99i_pisici_cu_49_lei_/_Vo?=
+ =?utf-8?q?psit_Ombre_sau_Balayage_+_Decapaj_+_Tuns_+_Coafat_+_Masaj_+_Sty?=
+ =?utf-8?q?ling_cu_119_lei__?=
+Message-Id: <20170201070334.8022.2052.431124.298242409.nl@creatoriideoferte.eu>
+To: Bruce <bruce@untroubled.org>
+Date: Wed, 01 Feb 2017 07:03:34 -0000
+Content-Length: 63804
+
+--=_d68bf20cd3ff4ba546b6a16ab34daff6
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=C2=A0=20
+Pentru a vedea online [http://nl.creatoriideoferte.eu/v/431124/298242409/e9=
+89b2818a521190fcdf6a4c3c791f71] acest mesaj personalizat
+click aici [http://nl.creatoriideoferte.eu/v/431124/298242409/e989b2818a521=
+190fcdf6a4c3c791f71]=20
+
+=C2=A0
+
+=C2=A0
+
+Telefon: 0371 341 565
+e-mail: contact@CreatoriideOferte.ro
+
+=C2=A0 Vezi toate ofertele de azi [http://nl.creatoriideoferte.eu/clk/43112=
+4/298242409/12972371/c821ac0dd7c8387f43b4bb7e0103b265]
+
+=C2=A0
+=C2=A0
+
+Slabire rapida: pana la 24 Proceduri, Cavitatie, Radiofrecventa, Masaj,=20
+Electrostimulare, Impachetari Tunel IR, Vacuum, Fast Slim, Ultrasunete
+incepand cu 69 ron la Golden Arcadya Salon
+=C2=A0
+
+=C2=A0
+
+Pret intreg:695.00 RON Pret redus: 69.00 RON
+=C2=A0
+
+Slabire rapida: pana la 24 Proceduri, Cavitatie, Radiofrecventa, Masaj,
+=C2=A0Electrostimulare, Impachetari =C2=A0Tunel IR, Vacuum, Fast Slim,
+Ultrasunete incepand cu 69 ron la Golden Arcadya Salon
+=C2=A0
+
+VEZI OFERTA [http://nl.creatoriideoferte.eu/clk/431124/298242409/12972375/6=
+6ef41696e1b8599ff7a5521e6c68af8] =C2=A0
+
+Pachet Cosmetica pentru Caini sau Pisici: tuns, spalat si coafat, curatat
+ochi si urechi, taiat unghii si vidat glande incepand cu 49 ron
+=C2=A0
+
+=C2=A0
+
+Pret intreg:135.00 RON Pret redus: 49.00 RON
+=C2=A0
+
+Optiunea 1: Pachet cosmetic pentru caini sau pisici: tuns, curatat ochi si
+urechi, taiat unghii si vidat glande cu 49 lei in loc de 135
+=C2=A0
+
+VEZI OFERTA [http://nl.creatoriideoferte.eu/clk/431124/298242409/12972373/5=
+b4d48d3e159371241f435c3ebcc1713] =C2=A0
+
+=C2=A0
+
+Pret intreg: 375.00 RON Pret redus: 119.00 RON =C2=A0
+=C2=A0
+Vopsit fara limita de tuburi Ombre sau Balayage +Decapaj +Tuns +Coafat
++Masaj + Styling la Top Cut Salon incepand cu 119 ron
+=C2=A0
+Optiunea 1: Vopsit fara limita de tuburi + Tuns+ Coafat + Styling la Top Cut
+Salon cu 119 ron in loc de 375
+=C2=A0
+
+VEZI OFERTA [http://nl.creatoriideoferte.eu/clk/431124/298242409/12972380/b=
+9dd59515857ac77a5500d9d89fecb72] =C2=A0
+
+S=C4=83n=C4=83tate
+
+=C2=A0
+=C2=A0
+
+Biorezonanta: stabilirea si investigarea starii generale a sanatatii ,
+evaluare energetica, schema terapeutica, cu 69 ron in loc de 150
+=C2=A0
+
+=C2=A0
+
+Pret intreg:150.00 RON Pret redus: 69.00 RON
+=C2=A0
+
+Optiunea 1: Biorezonanta: stabilirea si investigarea starii generale a
+sanatatii ,consultatie, evaluare energetica, consiliere, schema terapeutica,
+stabilirea si evaluarea aurei energetice a corpului (campului energetic) cu
+69 ron in loc de 150
+=C2=A0
+
+VEZI OFERTA [http://nl.creatoriideoferte.eu/clk/431124/298242409/12972379/e=
+af20cd3bef33ef46ff7bb887e65a070] =C2=A0
+
+Pachet pentru evaluarea bolilor cardiovasculare: Consult Cardiolog,
+Ecografie cardiaca si EKG, Consult Oftalmolog si Examen fund de ochi cu 175
+ron in loc de 440
+=C2=A0
+
+=C2=A0
+
+Pret intreg:440.00 RON Pret redus: 175.00 RON
+=C2=A0
+
+Pachet pentru evaluarea bolilor cardiovasculare: Consult Cardiolog,
+Ecografie cardiaca si EKG + Consult Oftalmolog si Examen fund de ochi cu 175
+ron in loc de 440
+=C2=A0
+
+VEZI OFERTA [http://nl.creatoriideoferte.eu/clk/431124/298242409/12972381/3=
+e0c918bad8c4928203d853f3df66c62] =C2=A0
+
+Frumuse=C8=9Be
+=C2=A0
+=C2=A0
+
+100 minute la Solar MegaSun orizontal sau vertical cu 60 lei in loc de 120
+la Solar ASE Dorobanti
+=C2=A0
+
+=C2=A0
+
+Pret intreg:120.00 RON Pret redus: 60.00 RON
+=C2=A0
+
+Incearca si tu magia bronzului MegaSun! Bronz mai sanatos=C2=A0si uniform,
+fara sa inroseasca pielea deloc.
+=C2=A0
+
+VEZI OFERTA [http://nl.creatoriideoferte.eu/clk/431124/298242409/12972377/f=
+1b12f158f5106b689d6fcd7186171a7] =C2=A0
+
+Ritual Masaj relaxare, al taliplor si scalpului in Dorobanti cu 29 ron de la
+150 ron
+=C2=A0
+
+=C2=A0
+
+Pret intreg:150.00 RON Pret redus: 29.00 RON
+=C2=A0
+
+Ritual Spa: Masaj relaxare, al taliplor si scalpului 29 ron de la 150 ron
+=C2=A0
+
+VEZI OFERTA [http://nl.creatoriideoferte.eu/clk/431124/298242409/12972369/5=
+9ced3dd364c37ab06f4eb9afcc2cbfe] =C2=A0
+
+Timp liber /
+Sport
+=C2=A0
+=C2=A0
+
+Sedinta Foto indoor profesionala! Se desfasoara in studio, timp de 1 ora si
+poate fi utilizata de catre 1 pana la 4 persoane: sedinta foto copil, o
+persoana individual, cuplu, familie. Toate pozele vor fi editate! (zona
+Magheru -Carturesti)
+=C2=A0
+
+=C2=A0
+
+Pret intreg:250.00 RON Pret redus: 49.00 RON
+=C2=A0
+
+SEDINTA FOTO INDOOR PROFESIONALA
+=C2=A0
+
+VEZI OFERTA [http://nl.creatoriideoferte.eu/clk/431124/298242409/12972376/d=
+8540deacd8527765e16dfe08960a0ee] =C2=A0
+
+12 sedinte yoga =C4=81sane+1 prelegere teoretica+Bonus: 1 consultatie medic=
+ala
+ayurvedica la Yoga Romania cu 150 ron in loc de 360
+=C2=A0
+
+=C2=A0
+
+Pret intreg:360.00 RON Pret redus: 150.00 RON
+=C2=A0
+
+12 sedinte yoga =C4=81sane+1 prelegere teoretica+Bonus: 1 consultatie medic=
+ala
+ayurvedica la Yoga Romania cu 150 ron in loc de 360=C2=A0
+=C2=A0
+
+VEZI OFERTA [http://nl.creatoriideoferte.eu/clk/431124/298242409/12972372/c=
+96126ffe2260f92247622cb26025c7f] =C2=A0
+
+Auto
+
+=C2=A0
+=C2=A0
+
+Pregateste masina de iarna: Ceara solida pentru iarna + Degresare + Spalat=
+=20
+exterior + interior + Dressing anvelope si jante cu 89 ron in loc de 230
+=C2=A0
+
+=C2=A0
+
+Pret intreg:230.00 RON Pret redus: 89.00 RON
+=C2=A0
+
+Pregateste masina de iarna: Ceara solida pentru iarna + Degresare +
+Spalat=C2=A0 exterior + interior + Dressing anvelope si jante cu 89 ron in
+loc de 230
+=C2=A0
+
+VEZI OFERTA [http://nl.creatoriideoferte.eu/clk/431124/298242409/12972378/0=
+9115f1558355d07d024c6fae791031e] =C2=A0
+
+Polish 3M total si Tapiterie curatare completa, spalat exterior in zona
+Rasaritului cu 149 in loc de 390
+=C2=A0
+
+=C2=A0
+
+Pret intreg:390.00 RON Pret redus: 149.00 RON
+=C2=A0
+
+Polish 3M total si Tapiterie curatare completa si spalat exterior cu 149 in
+loc de 400
+=C2=A0
+
+VEZI OFERTA [http://nl.creatoriideoferte.eu/clk/431124/298242409/12972382/5=
+139c6314201ba34dabd0ac6d7727fd3] =C2=A0
+
+=C2=A0
+
+=C2=A0
+=C2=A0 Copyright =C2=A9 2015 Smart Ticketing&Logistics SRL, All rights
+reserved. =C2=A9 Copyright 2015 Creatorii de Oferte - Toate Drepturile
+Rezervate. Acest mesaj nu poate fi considerat SPAM. Contine datele noastre
+de identificare si instructiuni de dezabonare. V-a fost transmis ca urmare a
+uneia dintre urmatoarele situatii: ati solicitat primirea ofertei noastre,
+sunteti un client/membru al institutiei noastre, sunteti in baza noastra de
+date ca urmare a unor corespondente anterioare, adresa dvs. a fost selectata
+dintr-o baza de date la care ati subscris, adresa dvs. a fost facuta publica
+prin afisari cu caracter publicitar.=C2=A0 contact@creatoriideoferte.ro
+Pentru dezabonare apasati aici [http://nl.creatoriideoferte.eu/unsubscribe/=
+2052/431124/298242409/e989b2818a521190fcdf6a4c3c791f71]
+=C2=A0
+
+--=_d68bf20cd3ff4ba546b6a16ab34daff6
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dutf-8"><title>24 proceduri pentru sl=C4=83bire rapid=C4=83 cu 69 lei / P=
+achet cosmetic=C4=83 pentru c=C3=A2ini =C8=99i pisici cu 49 lei / Vopsit Om=
+bre sau Balayage + Decapaj + Tuns + Coafat + Masaj + Styling cu 119 lei</ti=
+tle></head><body style=3D"margin: 0">
+<img src=3D"http://nl.creatoriideoferte.eu/tr/431124/298242409/e989b2818a52=
+1190fcdf6a4c3c791f71" width=3D"1" height=3D"1"><table border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" width=3D"600" align=3D"center"><tr><td>
+<table style=3D"background: #f3f3f3; width: 100%; padding: 0px 0px 0px 0px;=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr><td style=3D"=
+padding:0px 0px 0px 0px;">
+            <newsman border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"width: 100%; padding: 0px 0px 0px 0px;"></newsman></td>
+    </tr><tr><td style=3D"padding:0px 0px 0px 0px;">
+
+            <table style=3D"padding: 0px 0px 0px 0px; background: #f3f3f3; =
+color: #fff;" class=3D"" width=3D"700" cellspacing=3D"0" cellpadding=3D"0" =
+border=3D"0" align=3D"center"><tbody><tr><td style=3D"height: 25px; line-he=
+ight: 25px;" height=3D"25">=C2=A0</td></tr><tr><td style=3D"padding: 0px 39=
+px 0px 0px; color: #000000; font-family:Arial; font-size: 12px;" valign=3D"=
+top" align=3D"center"><span id=3D"view_online_id"><span style=3D"color:#000=
+000;"><a href=3D"http://nl.creatoriideoferte.eu/clk/431124/298242409/129723=
+74/4ab5eb84a186430a23cf756df0b4e338" target=3D"_blank"><img src=3D"http://n=
+l.creatoriideoferte-mail.eu/images/fblike.png" width=3D"74" height=3D"28" b=
+order=3D"0"></a><br>Pentru a vedea </span><a href=3D"http://nl.creatoriideo=
+ferte.eu/v/431124/298242409/e989b2818a521190fcdf6a4c3c791f71" style=3D"
+									font-weight:bold;
+									color: #a69f99;								"><span style=3D"color:#000000;">online</sp=
+an></a><span style=3D"color:#000000;"> acest mesaj personalizat </span><a h=
+ref=3D"http://nl.creatoriideoferte.eu/v/431124/298242409/e989b2818a521190fc=
+df6a4c3c791f71" style=3D"
+									font-weight:bold;
+									color: #a69f99;								"><span style=3D"color:#000000;">click aici=
+</span></a><span style=3D"color:#000000;"> </span></span></td></tr><tr><td =
+style=3D"height: 5px; line-height: 5px;" height=3D"5">=C2=A0</td></tr><tr><=
+td style=3D"padding: 0px 39px 0px 0px; color: #000000; font-family:Arial; f=
+ont-size: 12px;" valign=3D"top" align=3D"center"></td></tr></tbody></table>=
+<table class=3D""><tbody><tr><td style=3D"height: 15px; line-height: 10px;"=
+ height=3D"15"> =C2=A0</td></tr></tbody></table><table style=3D"padding: 0p=
+x 0px 0px 0px; background: #fff; color: #000;" class=3D"" width=3D"700" cel=
+lspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><=
+td style=3D"padding: 0px 0px 0px 0px; font-family: arial; font-size:40px; f=
+ont-weight: bold;" width=3D"250" valign=3D"middle" height=3D"100" align=3D"=
+left"><a href=3D"http://nl.creatoriideoferte.eu/clk/431124/298242409/129723=
+68/de70bd4534606d47e262c7d17f80c72c" target=3D"_blank"><img src=3D"http://s=
+1-cdn.nl.creatoriideoferte-mail.eu/images/templates/lcor/Images/DealGuru/4/=
+logo.jpg" style=3D"border: 0px;"></a></td><td style=3D"padding: 0px 20px 0p=
+x 0px; font-weight: bold; color: #000; font-family:Arial" width=3D"420" val=
+ign=3D"middle" align=3D"right">Telefon: <span style=3D"font-size:16px;"><sp=
+an style=3D"color: rgb(0, 0, 0);">0371 341 565</span></span><br>e-mail: con=
+tact@CreatoriideOferte.ro<br><br></td></tr></tbody></table><table style=3D"=
+padding: 0px 0px 0px 0px; background: #eff0f2;" class=3D"" width=3D"700" ce=
+llspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr>=
+<td style=3D"padding: 0px 0px 0px 20px; font-family: arial; font-size:20px;=
+ font-weight: bold; color: #000;" valign=3D"middle" height=3D"50" align=3D"=
+left">=C2=A0</td><td style=3D"padding: 0px 20px 0px 0px; font-weight: bold;=
+ color: #fff; font-family:Arial; font-size: 15px;" valign=3D"middle" height=
+=3D"50" align=3D"right"><a href=3D"http://nl.creatoriideoferte.eu/clk/43112=
+4/298242409/12972371/c821ac0dd7c8387f43b4bb7e0103b265" target=3D"_blank">Ve=
+zi toate ofertele de azi</a></td></tr></tbody></table><table class=3D"" cel=
+lspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><=
+td style=3D"height: 25px; background: #ffffff; line-height: 25px;" width=3D=
+"700" height=3D"25" align=3D"center"></td></tr></tbody></table><table style=
+=3D"background: #ffffff; padding: 0px 0px 0px 0px;" width=3D"700" cellspaci=
+ng=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td sty=
+le=3D"height: 20px; line-height: 20px;" height=3D"20">
+			=C2=A0
+		</td>
+	</tr><tr><td style=3D"width: 20px; line-height: 20px;" height=3D"20">
+			=C2=A0
+		</td>
+
+		<td style=3D"font-weight: bold; background: #eff0f2; font-family: arial; =
+font-size: 19px; padding: 0px 0px 0px 0px;" valign=3D"top" align=3D"center">
+			<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" border=3D=
+"0" align=3D"center"><tbody><tr><td style=3D"padding: 20px 20px 20px 20px;"=
+ valign=3D"top" align=3D"center">
+						<table style=3D"background: #eff0f2; padding: 0px;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"pa=
+dding: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 1=
+5px; line-height: 21px;" valign=3D"top" align=3D"center">
+
+                  Slabire rapida: pana la 24 Proceduri, Cavitatie, Radiofre=
+cventa, Masaj,  Electrostimulare, Impachetari  Tunel IR, Vacuum, Fast Slim,=
+ Ultrasunete incepand cu 69 ron la Golden Arcadya Salon
+               </td>
+							</tr><tr><td style=3D"height: 17px; line-height: 17px;" height=3D"17=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; line-height: 21px;" valign=3D"top" alig=
+n=3D"center">
+									<a target=3D"_blank" href=3D"http://nl.creatoriideoferte.eu/clk/43=
+1124/298242409/12972375/66ef41696e1b8599ff7a5521e6c68af8">
+										<img style=3D"border: 0px;" src=3D"http://shopcdn.creatoriideofer=
+te-mail.eu/nzi/77c29/creatoriideoferte.ro/storage/32000/1510/6629833e62e230=
+127e64464fa6c5952e.jpg?w=3D280&amp;pr=3D1" width=3D"280"></a>
+								</td>
+							</tr><tr><td style=3D"height: 5px; line-height: 5px;" height=3D"5">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; color: #fff;" valign=3D"middle" align=
+=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"paddin=
+g: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 13px;=
+ background: #000000; color: #fff;" valign=3D"middle" height=3D"40" align=
+=3D"center">
+												<span style=3D"text-decoration: line-through;">Pret intreg:695.=
+00 													RON</span>
+											</td>
+											<td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; font-f=
+amily: arial; font-size: 13px; background: #ffdf00; color: #000;" valign=3D=
+"middle" height=3D"40" align=3D"center">
+												Pret redus: 69.00  RON
+											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px; color: #5a5a5a;" valign=3D"top" align=3D"l=
+eft">
+                         =20
+	Slabire rapida: pana la 24 Proceduri, Cavitatie, Radiofrecventa, Masaj, =
+=C2=A0Electrostimulare, Impachetari =C2=A0Tunel IR, Vacuum, Fast Slim, Ultr=
+asunete incepand cu 69 ron la Golden Arcadya Salon                      </t=
+d>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px;" valign=3D"top" align=3D"left">
+												<a target=3D"_blank" style=3D"color: #1c1c1e; font-family: Aria=
+l; font-size: 14px;" href=3D"http://nl.creatoriideoferte.eu/clk/431124/2982=
+42409/12972375/66ef41696e1b8599ff7a5521e6c68af8">VEZI OFERTA</a>
+											</td>
+										</tr></tbody></table></td>
+							</tr></tbody></table></td>
+				</tr></tbody></table></td>
+
+		<td style=3D"width: 20px; line-height: 20px;" height=3D"20">
+			=C2=A0
+		</td>
+
+		<td style=3D"font-weight: bold; background: #eff0f2; font-family: arial; =
+font-size: 19px; padding: 0px 0px 0px 0px;" valign=3D"top" align=3D"center">
+			<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" border=3D=
+"0" align=3D"center"><tbody><tr><td style=3D"padding: 20px 20px 20px 20px;"=
+ valign=3D"top" align=3D"center">
+						<table style=3D"background: #eff0f2; padding: 0px;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"pa=
+dding: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 1=
+5px; line-height: 21px;" valign=3D"top" align=3D"center">
+
+									Pachet Cosmetica pentru Caini sau Pisici: tuns, spalat si coafat, =
+curatat ochi si urechi, taiat unghii si vidat glande incepand cu 49 ron
+								</td>
+							</tr><tr><td style=3D"height: 17px; line-height: 17px;" height=3D"17=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; line-height: 21px;" valign=3D"top" alig=
+n=3D"center">
+									<a target=3D"_blank" href=3D"http://nl.creatoriideoferte.eu/clk/43=
+1124/298242409/12972373/5b4d48d3e159371241f435c3ebcc1713">
+										<img style=3D"border: 0px;" src=3D"http://shopcdn.creatoriideofer=
+te-mail.eu/nzi/77c29/creatoriideoferte.ro/storage/32000/1507/f5c74a4cbdf98f=
+56cc5dd18a063e8797.jpg?w=3D280&amp;pr=3D1" width=3D"280"></a>
+								</td>
+							</tr><tr><td style=3D"height: 5px; line-height: 5px;" height=3D"5">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; color: #fff;" valign=3D"middle" align=
+=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"paddin=
+g: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 13px;=
+ background: #000000; color: #fff;" valign=3D"middle" height=3D"40" align=
+=3D"center">
+												<span style=3D"text-decoration: line-through;">Pret intreg:135.=
+00 													RON</span>
+											</td>
+											<td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; font-f=
+amily: arial; font-size: 13px; background: #ffdf00; color: #000;" valign=3D=
+"middle" height=3D"40" align=3D"center">
+												Pret redus: 49.00  RON
+											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px; color: #5a5a5a;" valign=3D"top" align=3D"l=
+eft">
+											=09
+	Optiunea 1: Pachet cosmetic pentru caini sau pisici: tuns, curatat ochi si=
+ urechi, taiat unghii si vidat glande cu 49 lei in loc de 135											</t=
+d>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px;" valign=3D"top" align=3D"left">
+												<a target=3D"_blank" style=3D"color: #1c1c1e; font-family: Aria=
+l; font-size: 14px;" href=3D"http://nl.creatoriideoferte.eu/clk/431124/2982=
+42409/12972373/5b4d48d3e159371241f435c3ebcc1713">VEZI OFERTA</a>
+											</td>
+										</tr></tbody></table></td>
+							</tr></tbody></table></td>
+				</tr></tbody></table></td>
+
+		<td style=3D"width: 20px; line-height: 20px;" width=3D"20">
+			=C2=A0
+		</td>
+	</tr></tbody></table><table class=3D"" cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0" align=3D"center"><tbody><tr><td style=3D"height: 25px; backgr=
+ound: #ffffff; line-height: 25px;" width=3D"700" height=3D"25" align=3D"cen=
+ter"></td></tr></tbody></table><table style=3D"background: #ffffff; padding=
+: 0px 20px 0px 20px;" width=3D"700" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0" align=3D"center"><tbody><tr><td style=3D"font-weight: bold; backg=
+round: #eff0f2; font-family: arial; font-size: 19px; padding: 0px 0px 0px 0=
+px;" valign=3D"top" align=3D"center">
+			<table style=3D"padding: 0px;" width=3D"660" cellspacing=3D"0" border=3D=
+"0" align=3D"left"><tbody><tr><td style=3D"padding: 20px 5px 20px 20px;" va=
+lign=3D"top" align=3D"center">
+						<table style=3D"padding: 0px;" width=3D"230" cellspacing=3D"0" border=
+=3D"0" align=3D"center"><tbody><tr><td style=3D"padding: 0px 0px 0px 0px;" =
+valign=3D"top" align=3D"center">
+									<table style=3D"background: #eff0f2; padding: 0px;" cellspacing=3D=
+"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D=
+"padding: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size=
+: 15px; line-height: 21px;" valign=3D"top" align=3D"center">
+												<a target=3D"_blank" href=3D"http://nl.creatoriideoferte.eu/clk=
+/431124/298242409/12972380/b9dd59515857ac77a5500d9d89fecb72">
+													<img src=3D"http://shopcdn.creatoriideoferte-mail.eu/nzi/77c29=
+/creatoriideoferte.ro/storage/32000/1508/d4164b2fad0e02b8e01e49c84e08c924.j=
+pg?w=3D230&amp;pr=3D1" style=3D"border: 0px;" width=3D"230"></a>
+											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 5px; line-height: 5px;" height=3D"5">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; color: #fff;" valign=3D"middle" align=
+=3D"center">
+									<table style=3D"padding: 0px;" width=3D"230" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"paddin=
+g: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 12px;=
+ background: #23bbd2; color: #fff;" valign=3D"middle" height=3D"30" align=
+=3D"center">
+												<span style=3D"text-decoration: line-through;">Pret intreg: 375=
+.00 													RON</span>
+											</td>
+											<td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; font-f=
+amily: arial; font-size: 12px; background: #7aa41e; color: #fff;" valign=3D=
+"middle" height=3D"30" align=3D"center">
+												Pret redus: 119.00  RON
+											</td>
+										</tr></tbody></table></td>
+							</tr></tbody></table></td>
+					<td style=3D"width: 10px; line-height: 10px;" width=3D"10">
+						=C2=A0
+					</td>
+					<td style=3D"padding: 0px 0px 0px 0px;" valign=3D"top" align=3D"left">
+						<table style=3D"padding: 0px;" cellspacing=3D"0" cellpadding=3D"0" bo=
+rder=3D"0" align=3D"left"><tbody><tr><td style=3D"height: 20px; line-height=
+: 20px;" height=3D"20">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"font-weight: bold; background: #eff0f2; font-f=
+amily: arial; font-size: 15px; padding: 0px 0px 0px 0px; color: #1c1c1c;" v=
+align=3D"top" align=3D"left">
+                                                            Vopsit fara lim=
+ita de tuburi Ombre sau Balayage +Decapaj +Tuns +Coafat +Masaj + Styling la=
+ Top Cut Salon incepand cu 119 ron                                         =
+               </td>
+							</tr><tr><td style=3D"width: 15px; line-height: 15px;" width=3D"15">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px; background: #eff0f2;  font-famil=
+y: arial; font-weight: 600; font-size: 12px; line-height: 19px; color: #5a5=
+a5a;" valign=3D"top" align=3D"left">
+                  =20
+	Optiunea 1: Vopsit fara limita de tuburi + Tuns+ Coafat + Styling la Top C=
+ut Salon cu 119 ron in loc de 375                </td>
+							</tr><tr><td style=3D"width: 25px; line-height: 25px;" width=3D"25">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 5px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"top" align=3D"right">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"right"><tbody><tr><td st=
+yle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; font=
+-size: 12px; line-height: 19px;" valign=3D"top" align=3D"right">
+												<a target=3D"_blank" style=3D"color: #1c1c1e; font-family: Aria=
+l; font-size: 14px;" href=3D"http://nl.creatoriideoferte.eu/clk/431124/2982=
+42409/12972380/b9dd59515857ac77a5500d9d89fecb72">VEZI OFERTA</a>
+											</td>
+										</tr></tbody></table></td>
+							</tr></tbody></table></td>
+					<td style=3D"width: 10px; line-height: 10px;" width=3D"10">
+						=C2=A0
+					</td>
+				</tr></tbody></table></td>
+	</tr></tbody></table><table class=3D"" cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0" align=3D"center"><tbody><tr><td style=3D"height: 25px; backgr=
+ound: #ffffff; line-height: 25px;" width=3D"700" height=3D"25" align=3D"cen=
+ter"> <span style=3D"font-size:26px;"><strong>S=C4=83n=C4=83tate </strong><=
+/span></td></tr></tbody></table><table style=3D"background: #ffffff; paddin=
+g: 0px 0px 0px 0px;" width=3D"700" cellspacing=3D"0" cellpadding=3D"0" bord=
+er=3D"0" align=3D"center"><tbody><tr><td style=3D"height: 20px; line-height=
+: 20px;" height=3D"20">
+			=C2=A0
+		</td>
+	</tr><tr><td style=3D"width: 20px; line-height: 20px;" height=3D"20">
+			=C2=A0
+		</td>
+
+		<td style=3D"font-weight: bold; background: #eff0f2; font-family: arial; =
+font-size: 19px; padding: 0px 0px 0px 0px;" valign=3D"top" align=3D"center">
+			<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" border=3D=
+"0" align=3D"center"><tbody><tr><td style=3D"padding: 20px 20px 20px 20px;"=
+ valign=3D"top" align=3D"center">
+						<table style=3D"background: #eff0f2; padding: 0px;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"pa=
+dding: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 1=
+5px; line-height: 21px;" valign=3D"top" align=3D"center">
+
+                  Biorezonanta: stabilirea si investigarea starii generale =
+a sanatatii , evaluare energetica, schema terapeutica,  cu 69 ron in loc de=
+ 150
+               </td>
+							</tr><tr><td style=3D"height: 17px; line-height: 17px;" height=3D"17=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; line-height: 21px;" valign=3D"top" alig=
+n=3D"center">
+									<a target=3D"_blank" href=3D"http://nl.creatoriideoferte.eu/clk/43=
+1124/298242409/12972379/eaf20cd3bef33ef46ff7bb887e65a070">
+										<img style=3D"border: 0px;" src=3D"http://shopcdn.creatoriideofer=
+te-mail.eu/nzi/77c29/creatoriideoferte.ro/storage/32000/734/12a14003bff1b58=
+eea4fd7a4cfc3c102.jpg?w=3D280&amp;pr=3D1" width=3D"280"></a>
+								</td>
+							</tr><tr><td style=3D"height: 5px; line-height: 5px;" height=3D"5">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; color: #fff;" valign=3D"middle" align=
+=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"paddin=
+g: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 13px;=
+ background: #000000; color: #fff;" valign=3D"middle" height=3D"40" align=
+=3D"center">
+												<span style=3D"text-decoration: line-through;">Pret intreg:150.=
+00 													RON</span>
+											</td>
+											<td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; font-f=
+amily: arial; font-size: 13px; background: #ffdf00; color: #000;" valign=3D=
+"middle" height=3D"40" align=3D"center">
+												Pret redus: 69.00  RON
+											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px; color: #5a5a5a;" valign=3D"top" align=3D"l=
+eft">
+                         =20
+	Optiunea 1: Biorezonanta: stabilirea si investigarea starii generale a san=
+atatii ,consultatie, evaluare energetica, consiliere, schema terapeutica, s=
+tabilirea si evaluarea aurei energetice a corpului (campului energetic) cu =
+69 ron in loc de 150                      </td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px;" valign=3D"top" align=3D"left">
+												<a target=3D"_blank" style=3D"color: #1c1c1e; font-family: Aria=
+l; font-size: 14px;" href=3D"http://nl.creatoriideoferte.eu/clk/431124/2982=
+42409/12972379/eaf20cd3bef33ef46ff7bb887e65a070">VEZI OFERTA</a>
+											</td>
+										</tr></tbody></table></td>
+							</tr></tbody></table></td>
+				</tr></tbody></table></td>
+
+		<td style=3D"width: 20px; line-height: 20px;" height=3D"20">
+			=C2=A0
+		</td>
+
+		<td style=3D"font-weight: bold; background: #eff0f2; font-family: arial; =
+font-size: 19px; padding: 0px 0px 0px 0px;" valign=3D"top" align=3D"center">
+			<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" border=3D=
+"0" align=3D"center"><tbody><tr><td style=3D"padding: 20px 20px 20px 20px;"=
+ valign=3D"top" align=3D"center">
+						<table style=3D"background: #eff0f2; padding: 0px;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"pa=
+dding: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 1=
+5px; line-height: 21px;" valign=3D"top" align=3D"center">
+
+									Pachet pentru evaluarea bolilor cardiovasculare: Consult Cardiolog=
+, Ecografie cardiaca si EKG, Consult Oftalmolog si Examen fund de ochi cu 1=
+75 ron in loc de 440
+								</td>
+							</tr><tr><td style=3D"height: 17px; line-height: 17px;" height=3D"17=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; line-height: 21px;" valign=3D"top" alig=
+n=3D"center">
+									<a target=3D"_blank" href=3D"http://nl.creatoriideoferte.eu/clk/43=
+1124/298242409/12972381/3e0c918bad8c4928203d853f3df66c62">
+										<img style=3D"border: 0px;" src=3D"http://shopcdn.creatoriideofer=
+te-mail.eu/nzi/77c29/creatoriideoferte.ro/storage/32000/666/0b734b6429bec05=
+b7c2d40f46455c5d0.jpg?w=3D280&amp;pr=3D1" width=3D"280"></a>
+								</td>
+							</tr><tr><td style=3D"height: 5px; line-height: 5px;" height=3D"5">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; color: #fff;" valign=3D"middle" align=
+=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"paddin=
+g: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 13px;=
+ background: #000000; color: #fff;" valign=3D"middle" height=3D"40" align=
+=3D"center">
+												<span style=3D"text-decoration: line-through;">Pret intreg:440.=
+00 													RON</span>
+											</td>
+											<td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; font-f=
+amily: arial; font-size: 13px; background: #ffdf00; color: #000;" valign=3D=
+"middle" height=3D"40" align=3D"center">
+												Pret redus: 175.00  RON
+											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px; color: #5a5a5a;" valign=3D"top" align=3D"l=
+eft">
+											=09
+	Pachet pentru evaluarea bolilor cardiovasculare: Consult Cardiolog, Ecogra=
+fie cardiaca si EKG + Consult Oftalmolog si Examen fund de ochi cu 175 ron =
+in loc de 440											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px;" valign=3D"top" align=3D"left">
+												<a target=3D"_blank" style=3D"color: #1c1c1e; font-family: Aria=
+l; font-size: 14px;" href=3D"http://nl.creatoriideoferte.eu/clk/431124/2982=
+42409/12972381/3e0c918bad8c4928203d853f3df66c62">VEZI OFERTA</a>
+											</td>
+										</tr></tbody></table></td>
+							</tr></tbody></table></td>
+				</tr></tbody></table></td>
+
+		<td style=3D"width: 20px; line-height: 20px;" width=3D"20">
+			=C2=A0
+		</td>
+	</tr></tbody></table><table class=3D"" cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0" align=3D"center"><tbody><tr><td style=3D"height: 25px; backgr=
+ound: #ffffff; line-height: 25px;" width=3D"700" height=3D"25" align=3D"cen=
+ter"> <span style=3D"font-size:26px;"><strong>Frumuse=C8=9Be</strong></span=
+></td></tr></tbody></table><table style=3D"background: #ffffff; padding: 0p=
+x 0px 0px 0px;" width=3D"700" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center"><tbody><tr><td style=3D"height: 20px; line-height: 20p=
+x;" height=3D"20">
+			=C2=A0
+		</td>
+	</tr><tr><td style=3D"width: 20px; line-height: 20px;" height=3D"20">
+			=C2=A0
+		</td>
+
+		<td style=3D"font-weight: bold; background: #eff0f2; font-family: arial; =
+font-size: 19px; padding: 0px 0px 0px 0px;" valign=3D"top" align=3D"center">
+			<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" border=3D=
+"0" align=3D"center"><tbody><tr><td style=3D"padding: 20px 20px 20px 20px;"=
+ valign=3D"top" align=3D"center">
+						<table style=3D"background: #eff0f2; padding: 0px;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"pa=
+dding: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 1=
+5px; line-height: 21px;" valign=3D"top" align=3D"center">
+
+                  100 minute la Solar MegaSun orizontal sau vertical cu 60 =
+lei in loc de 120 la Solar ASE Dorobanti
+               </td>
+							</tr><tr><td style=3D"height: 17px; line-height: 17px;" height=3D"17=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; line-height: 21px;" valign=3D"top" alig=
+n=3D"center">
+									<a target=3D"_blank" href=3D"http://nl.creatoriideoferte.eu/clk/43=
+1124/298242409/12972377/f1b12f158f5106b689d6fcd7186171a7">
+										<img style=3D"border: 0px;" src=3D"http://shopcdn.creatoriideofer=
+te-mail.eu/nzi/77c29/creatoriideoferte.ro/storage/32000/1476/ec31fd80b4aa0b=
+c27feebc835c507600.jpg?w=3D280&amp;pr=3D1" width=3D"280"></a>
+								</td>
+							</tr><tr><td style=3D"height: 5px; line-height: 5px;" height=3D"5">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; color: #fff;" valign=3D"middle" align=
+=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"paddin=
+g: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 13px;=
+ background: #000000; color: #fff;" valign=3D"middle" height=3D"40" align=
+=3D"center">
+												<span style=3D"text-decoration: line-through;">Pret intreg:120.=
+00 													RON</span>
+											</td>
+											<td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; font-f=
+amily: arial; font-size: 13px; background: #ffdf00; color: #000;" valign=3D=
+"middle" height=3D"40" align=3D"center">
+												Pret redus: 60.00  RON
+											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px; color: #5a5a5a;" valign=3D"top" align=3D"l=
+eft">
+                         =20
+	Incearca si tu magia bronzului MegaSun! Bronz mai sanatos=C2=A0si uniform,=
+ fara sa inroseasca pielea deloc.                      </td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px;" valign=3D"top" align=3D"left">
+												<a target=3D"_blank" style=3D"color: #1c1c1e; font-family: Aria=
+l; font-size: 14px;" href=3D"http://nl.creatoriideoferte.eu/clk/431124/2982=
+42409/12972377/f1b12f158f5106b689d6fcd7186171a7">VEZI OFERTA</a>
+											</td>
+										</tr></tbody></table></td>
+							</tr></tbody></table></td>
+				</tr></tbody></table></td>
+
+		<td style=3D"width: 20px; line-height: 20px;" height=3D"20">
+			=C2=A0
+		</td>
+
+		<td style=3D"font-weight: bold; background: #eff0f2; font-family: arial; =
+font-size: 19px; padding: 0px 0px 0px 0px;" valign=3D"top" align=3D"center">
+			<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" border=3D=
+"0" align=3D"center"><tbody><tr><td style=3D"padding: 20px 20px 20px 20px;"=
+ valign=3D"top" align=3D"center">
+						<table style=3D"background: #eff0f2; padding: 0px;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"pa=
+dding: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 1=
+5px; line-height: 21px;" valign=3D"top" align=3D"center">
+
+									Ritual Masaj relaxare, al taliplor si scalpului in Dorobanti cu 29=
+ ron de la 150 ron
+								</td>
+							</tr><tr><td style=3D"height: 17px; line-height: 17px;" height=3D"17=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; line-height: 21px;" valign=3D"top" alig=
+n=3D"center">
+									<a target=3D"_blank" href=3D"http://nl.creatoriideoferte.eu/clk/43=
+1124/298242409/12972369/59ced3dd364c37ab06f4eb9afcc2cbfe">
+										<img style=3D"border: 0px;" src=3D"http://shopcdn.creatoriideofer=
+te-mail.eu/nzi/77c29/creatoriideoferte.ro/storage/32000/1434/0a75430b1f50b7=
+f61f401a1efa185630.jpg?w=3D280&amp;pr=3D1" width=3D"280"></a>
+								</td>
+							</tr><tr><td style=3D"height: 5px; line-height: 5px;" height=3D"5">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; color: #fff;" valign=3D"middle" align=
+=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"paddin=
+g: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 13px;=
+ background: #000000; color: #fff;" valign=3D"middle" height=3D"40" align=
+=3D"center">
+												<span style=3D"text-decoration: line-through;">Pret intreg:150.=
+00 													RON</span>
+											</td>
+											<td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; font-f=
+amily: arial; font-size: 13px; background: #ffdf00; color: #000;" valign=3D=
+"middle" height=3D"40" align=3D"center">
+												Pret redus: 29.00  RON
+											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px; color: #5a5a5a;" valign=3D"top" align=3D"l=
+eft">
+											=09
+	Ritual Spa: Masaj relaxare, al taliplor si scalpului 29 ron de la 150 ron	=
+										</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px;" valign=3D"top" align=3D"left">
+												<a target=3D"_blank" style=3D"color: #1c1c1e; font-family: Aria=
+l; font-size: 14px;" href=3D"http://nl.creatoriideoferte.eu/clk/431124/2982=
+42409/12972369/59ced3dd364c37ab06f4eb9afcc2cbfe">VEZI OFERTA</a>
+											</td>
+										</tr></tbody></table></td>
+							</tr></tbody></table></td>
+				</tr></tbody></table></td>
+
+		<td style=3D"width: 20px; line-height: 20px;" width=3D"20">
+			=C2=A0
+		</td>
+	</tr></tbody></table><table class=3D"" cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0" align=3D"center"><tbody><tr><td style=3D"height: 25px; backgr=
+ound: #ffffff; line-height: 25px;" width=3D"700" height=3D"25" align=3D"cen=
+ter"> <span style=3D"font-size:26px;"><strong>Timp liber / Sport</strong></=
+span></td></tr></tbody></table><table style=3D"background: #ffffff; padding=
+: 0px 0px 0px 0px;" width=3D"700" cellspacing=3D"0" cellpadding=3D"0" borde=
+r=3D"0" align=3D"center"><tbody><tr><td style=3D"height: 20px; line-height:=
+ 20px;" height=3D"20">
+			=C2=A0
+		</td>
+	</tr><tr><td style=3D"width: 20px; line-height: 20px;" height=3D"20">
+			=C2=A0
+		</td>
+
+		<td style=3D"font-weight: bold; background: #eff0f2; font-family: arial; =
+font-size: 19px; padding: 0px 0px 0px 0px;" valign=3D"top" align=3D"center">
+			<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" border=3D=
+"0" align=3D"center"><tbody><tr><td style=3D"padding: 20px 20px 20px 20px;"=
+ valign=3D"top" align=3D"center">
+						<table style=3D"background: #eff0f2; padding: 0px;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"pa=
+dding: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 1=
+5px; line-height: 21px;" valign=3D"top" align=3D"center">
+
+                  Sedinta Foto indoor profesionala! Se desfasoara in studio=
+, timp de 1 ora si poate fi utilizata de catre 1 pana la 4 persoane: sedint=
+a foto copil, o persoana individual, cuplu, familie. Toate pozele vor fi ed=
+itate! (zona Magheru -Carturesti)
+               </td>
+							</tr><tr><td style=3D"height: 17px; line-height: 17px;" height=3D"17=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; line-height: 21px;" valign=3D"top" alig=
+n=3D"center">
+									<a target=3D"_blank" href=3D"http://nl.creatoriideoferte.eu/clk/43=
+1124/298242409/12972376/d8540deacd8527765e16dfe08960a0ee">
+										<img style=3D"border: 0px;" src=3D"http://shopcdn.creatoriideofer=
+te-mail.eu/nzi/77c29/creatoriideoferte.ro/storage/32000/1464/151a09095cff61=
+110fc5b349db58c495.jpg?w=3D280&amp;pr=3D1" width=3D"280"></a>
+								</td>
+							</tr><tr><td style=3D"height: 5px; line-height: 5px;" height=3D"5">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; color: #fff;" valign=3D"middle" align=
+=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"paddin=
+g: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 13px;=
+ background: #000000; color: #fff;" valign=3D"middle" height=3D"40" align=
+=3D"center">
+												<span style=3D"text-decoration: line-through;">Pret intreg:250.=
+00 													RON</span>
+											</td>
+											<td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; font-f=
+amily: arial; font-size: 13px; background: #ffdf00; color: #000;" valign=3D=
+"middle" height=3D"40" align=3D"center">
+												Pret redus: 49.00  RON
+											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px; color: #5a5a5a;" valign=3D"top" align=3D"l=
+eft">
+                         =20
+	SEDINTA FOTO INDOOR PROFESIONALA                      </td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px;" valign=3D"top" align=3D"left">
+												<a target=3D"_blank" style=3D"color: #1c1c1e; font-family: Aria=
+l; font-size: 14px;" href=3D"http://nl.creatoriideoferte.eu/clk/431124/2982=
+42409/12972376/d8540deacd8527765e16dfe08960a0ee">VEZI OFERTA</a>
+											</td>
+										</tr></tbody></table></td>
+							</tr></tbody></table></td>
+				</tr></tbody></table></td>
+
+		<td style=3D"width: 20px; line-height: 20px;" height=3D"20">
+			=C2=A0
+		</td>
+
+		<td style=3D"font-weight: bold; background: #eff0f2; font-family: arial; =
+font-size: 19px; padding: 0px 0px 0px 0px;" valign=3D"top" align=3D"center">
+			<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" border=3D=
+"0" align=3D"center"><tbody><tr><td style=3D"padding: 20px 20px 20px 20px;"=
+ valign=3D"top" align=3D"center">
+						<table style=3D"background: #eff0f2; padding: 0px;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"pa=
+dding: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 1=
+5px; line-height: 21px;" valign=3D"top" align=3D"center">
+
+									12 sedinte yoga =C4=81sane+1 prelegere teoretica+Bonus: 1 consulta=
+tie medicala ayurvedica la Yoga Romania cu 150 ron in loc de 360
+								</td>
+							</tr><tr><td style=3D"height: 17px; line-height: 17px;" height=3D"17=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; line-height: 21px;" valign=3D"top" alig=
+n=3D"center">
+									<a target=3D"_blank" href=3D"http://nl.creatoriideoferte.eu/clk/43=
+1124/298242409/12972372/c96126ffe2260f92247622cb26025c7f">
+										<img style=3D"border: 0px;" src=3D"http://shopcdn.creatoriideofer=
+te-mail.eu/nzi/77c29/creatoriideoferte.ro/storage/32000/1449/627bb705c4323d=
+1af6847ba7b804ab38.jpg?w=3D280&amp;pr=3D1" width=3D"280"></a>
+								</td>
+							</tr><tr><td style=3D"height: 5px; line-height: 5px;" height=3D"5">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; color: #fff;" valign=3D"middle" align=
+=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"paddin=
+g: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 13px;=
+ background: #000000; color: #fff;" valign=3D"middle" height=3D"40" align=
+=3D"center">
+												<span style=3D"text-decoration: line-through;">Pret intreg:360.=
+00 													RON</span>
+											</td>
+											<td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; font-f=
+amily: arial; font-size: 13px; background: #ffdf00; color: #000;" valign=3D=
+"middle" height=3D"40" align=3D"center">
+												Pret redus: 150.00  RON
+											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px; color: #5a5a5a;" valign=3D"top" align=3D"l=
+eft">
+											=09
+	12 sedinte yoga =C4=81sane+1 prelegere teoretica+Bonus: 1 consultatie medi=
+cala ayurvedica la Yoga Romania cu 150 ron in loc de 360=C2=A0											</=
+td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px;" valign=3D"top" align=3D"left">
+												<a target=3D"_blank" style=3D"color: #1c1c1e; font-family: Aria=
+l; font-size: 14px;" href=3D"http://nl.creatoriideoferte.eu/clk/431124/2982=
+42409/12972372/c96126ffe2260f92247622cb26025c7f">VEZI OFERTA</a>
+											</td>
+										</tr></tbody></table></td>
+							</tr></tbody></table></td>
+				</tr></tbody></table></td>
+
+		<td style=3D"width: 20px; line-height: 20px;" width=3D"20">
+			=C2=A0
+		</td>
+	</tr></tbody></table><table class=3D"" cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0" align=3D"center"><tbody><tr><td style=3D"height: 25px; backgr=
+ound: #ffffff; line-height: 25px;" width=3D"700" height=3D"25" align=3D"cen=
+ter"> <span style=3D"font-size:26px;"><strong>Auto </strong></span></td></t=
+r></tbody></table><table style=3D"background: #ffffff; padding: 0px 0px 0px=
+ 0px;" width=3D"700" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=
+=3D"center"><tbody><tr><td style=3D"height: 20px; line-height: 20px;" heigh=
+t=3D"20">
+			=C2=A0
+		</td>
+	</tr><tr><td style=3D"width: 20px; line-height: 20px;" height=3D"20">
+			=C2=A0
+		</td>
+
+		<td style=3D"font-weight: bold; background: #eff0f2; font-family: arial; =
+font-size: 19px; padding: 0px 0px 0px 0px;" valign=3D"top" align=3D"center">
+			<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" border=3D=
+"0" align=3D"center"><tbody><tr><td style=3D"padding: 20px 20px 20px 20px;"=
+ valign=3D"top" align=3D"center">
+						<table style=3D"background: #eff0f2; padding: 0px;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"pa=
+dding: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 1=
+5px; line-height: 21px;" valign=3D"top" align=3D"center">
+
+                  Pregateste masina de iarna: Ceara solida pentru iarna + D=
+egresare + Spalat  exterior + interior + Dressing anvelope si jante cu 89 r=
+on in loc de 230
+               </td>
+							</tr><tr><td style=3D"height: 17px; line-height: 17px;" height=3D"17=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; line-height: 21px;" valign=3D"top" alig=
+n=3D"center">
+									<a target=3D"_blank" href=3D"http://nl.creatoriideoferte.eu/clk/43=
+1124/298242409/12972378/09115f1558355d07d024c6fae791031e">
+										<img style=3D"border: 0px;" src=3D"http://shopcdn.creatoriideofer=
+te-mail.eu/nzi/77c29/creatoriideoferte.ro/storage/32000/1368/ea7517a4f4c09f=
+9cafc440c81203b8e6.jpg?w=3D280&amp;pr=3D1" width=3D"280"></a>
+								</td>
+							</tr><tr><td style=3D"height: 5px; line-height: 5px;" height=3D"5">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; color: #fff;" valign=3D"middle" align=
+=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"paddin=
+g: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 13px;=
+ background: #000000; color: #fff;" valign=3D"middle" height=3D"40" align=
+=3D"center">
+												<span style=3D"text-decoration: line-through;">Pret intreg:230.=
+00 													RON</span>
+											</td>
+											<td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; font-f=
+amily: arial; font-size: 13px; background: #ffdf00; color: #000;" valign=3D=
+"middle" height=3D"40" align=3D"center">
+												Pret redus: 89.00  RON
+											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px; color: #5a5a5a;" valign=3D"top" align=3D"l=
+eft">
+                         =20
+	Pregateste masina de iarna: Ceara solida pentru iarna + Degresare + Spalat=
+=C2=A0 exterior + interior + Dressing anvelope si jante cu 89 ron in loc de=
+ 230                      </td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px;" valign=3D"top" align=3D"left">
+												<a target=3D"_blank" style=3D"color: #1c1c1e; font-family: Aria=
+l; font-size: 14px;" href=3D"http://nl.creatoriideoferte.eu/clk/431124/2982=
+42409/12972378/09115f1558355d07d024c6fae791031e">VEZI OFERTA</a>
+											</td>
+										</tr></tbody></table></td>
+							</tr></tbody></table></td>
+				</tr></tbody></table></td>
+
+		<td style=3D"width: 20px; line-height: 20px;" height=3D"20">
+			=C2=A0
+		</td>
+
+		<td style=3D"font-weight: bold; background: #eff0f2; font-family: arial; =
+font-size: 19px; padding: 0px 0px 0px 0px;" valign=3D"top" align=3D"center">
+			<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" border=3D=
+"0" align=3D"center"><tbody><tr><td style=3D"padding: 20px 20px 20px 20px;"=
+ valign=3D"top" align=3D"center">
+						<table style=3D"background: #eff0f2; padding: 0px;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"pa=
+dding: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 1=
+5px; line-height: 21px;" valign=3D"top" align=3D"center">
+
+									Polish 3M total si Tapiterie curatare completa, spalat exterior in=
+ zona Rasaritului cu 149 in loc de 390
+								</td>
+							</tr><tr><td style=3D"height: 17px; line-height: 17px;" height=3D"17=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; line-height: 21px;" valign=3D"top" alig=
+n=3D"center">
+									<a target=3D"_blank" href=3D"http://nl.creatoriideoferte.eu/clk/43=
+1124/298242409/12972382/5139c6314201ba34dabd0ac6d7727fd3">
+										<img style=3D"border: 0px;" src=3D"http://shopcdn.creatoriideofer=
+te-mail.eu/nzi/77c29/creatoriideoferte.ro/storage/32000/656/4be201365ab462d=
+3cac7a8d7bc9c8d8b.jpg?w=3D280&amp;pr=3D1" width=3D"280"></a>
+								</td>
+							</tr><tr><td style=3D"height: 5px; line-height: 5px;" height=3D"5">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; f=
+ont-family: arial; font-size: 15px; color: #fff;" valign=3D"middle" align=
+=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td style=3D"paddin=
+g: 0px 0px 0px 0px; font-weight: bold; font-family: arial; font-size: 13px;=
+ background: #000000; color: #fff;" valign=3D"middle" height=3D"40" align=
+=3D"center">
+												<span style=3D"text-decoration: line-through;">Pret intreg:390.=
+00 													RON</span>
+											</td>
+											<td style=3D"padding: 0px 0px 0px 0px; font-weight: bold; font-f=
+amily: arial; font-size: 13px; background: #ffdf00; color: #000;" valign=3D=
+"middle" height=3D"40" align=3D"center">
+												Pret redus: 149.00  RON
+											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px; color: #5a5a5a;" valign=3D"top" align=3D"l=
+eft">
+											=09
+	Polish 3M total si Tapiterie curatare completa si spalat exterior cu 149 i=
+n loc de 400											</td>
+										</tr></tbody></table></td>
+							</tr><tr><td style=3D"height: 20px; line-height: 20px;" height=3D"20=
+">
+									=C2=A0
+								</td>
+							</tr><tr><td style=3D"padding: 0px 0px 0px 0px; font-family: arial; =
+font-size: 15px; color: #fff;" valign=3D"middle" align=3D"center">
+									<table style=3D"padding: 0px;" width=3D"280" height=3D"40" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td s=
+tyle=3D"padding: 0px 0px 0px 0px; font-family: arial; font-weight: 600; fon=
+t-size: 12px; line-height: 19px;" valign=3D"top" align=3D"left">
+												<a target=3D"_blank" style=3D"color: #1c1c1e; font-family: Aria=
+l; font-size: 14px;" href=3D"http://nl.creatoriideoferte.eu/clk/431124/2982=
+42409/12972382/5139c6314201ba34dabd0ac6d7727fd3">VEZI OFERTA</a>
+											</td>
+										</tr></tbody></table></td>
+							</tr></tbody></table></td>
+				</tr></tbody></table></td>
+
+		<td style=3D"width: 20px; line-height: 20px;" width=3D"20">
+			=C2=A0
+		</td>
+	</tr></tbody></table><table class=3D"" cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0" align=3D"center"><tbody><tr><td style=3D"height: 25px; backgr=
+ound: #ffffff; line-height: 25px;" width=3D"700" height=3D"25" align=3D"cen=
+ter"> <a target=3D"_blank" href=3D"http://nl.creatoriideoferte.eu/clk/43112=
+4/298242409/12972370/c571e2df7d389f05717bc4ae8d29cecf"><img src=3D"http://i=
+mg.nl.creatoriideoferte.eu/i/e2f8dab194f9ec5fe9f6807c44e66262/256877.jpg?w=
+=3D600&amp;h=3D900" style=3D"width: 600px; height: 900px;"></a>=C2=A0<br></=
+td></tr></tbody></table><table class=3D""><tbody><tr><td style=3D"height: 2=
+5px; line-height: 25px;" height=3D"25">=C2=A0</td></tr></tbody></table><tab=
+le style=3D"background: #f3f3f3 ;padding: 0px 0px 0px 0px;" class=3D"" widt=
+h=3D"700" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"=
+><tbody><tr><td style=3D"height: 10px; line-height: 10px; background: #f3f3=
+f3;" height=3D"10">=C2=A0</td></tr><tr><td style=3D"font-family:Arial; line=
+-height:17px; background: #f3f3f3; color:#000000; font-size:14px; font-fami=
+ly: arial" width=3D"600" valign=3D"middle" align=3D"center"><span style=3D"=
+font-size:10px;">Copyright =C2=A9 2015 Smart Ticketing&amp;Logistics SRL, A=
+ll rights reserved. =C2=A9 Copyright 2015 Creatorii de Oferte - Toate Drept=
+urile Rezervate. Acest mesaj nu poate fi considerat SPAM. Contine datele no=
+astre de identificare si instructiuni de dezabonare. V-a fost transmis ca u=
+rmare a uneia dintre urmatoarele situatii: ati solicitat primirea ofertei n=
+oastre, sunteti un client/membru al institutiei noastre, sunteti in baza no=
+astra de date ca urmare a unor corespondente anterioare, adresa dvs. a fost=
+ selectata dintr-o baza de date la care ati subscris, adresa dvs. a fost fa=
+cuta publica prin afisari cu caracter publicitar.=C2=A0 contact@creatoriide=
+oferte.ro</span><br><span style=3D"color:#000080;">Pentru dezabonare apasat=
+i </span><span style=3D"font-size:18px;"><a href=3D"http://nl.creatoriideof=
+erte.eu/unsubscribe/2052/431124/298242409/e989b2818a521190fcdf6a4c3c791f71"=
+ style=3D"color: #000000;"><span style=3D"color: rgb(255, 0, 0);">aici</spa=
+n></a></span></td></tr><tr><td style=3D"height: 50px; line-height: 50px; ba=
+ckground: #f3f3f3;" height=3D"50">=C2=A0</td></tr></tbody></table></td>
+    </tr></tbody></table></td></tr></table></body></html>
+--=_d68bf20cd3ff4ba546b6a16ab34daff6--
