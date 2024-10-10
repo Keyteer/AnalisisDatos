@@ -75,16 +75,24 @@ for filename in os.listdir(folder_path):
                     try:
                         stripped_text = base64.b64decode(stripped_text + "="*(4-missing_padding)).decode("utf-8")
                     except ValueError as e:
-                        invalid_64=True
-                        print(e)
+                        try:
+                            stripped_text = base64.b64decode(stripped_text + "=" * (4 - missing_padding)).decode("shift_jis")
+                        except ValueError as e:
+                            invalid_64=True
+                            errors+=1
+                            print(e)
                 if not invalid_64:
                     get_common_words(stripped_text)
                     counter += 1
-
                 else:
                     print("invalid 64")
+                # Para detener el codigo tras leer x archivos (en este caso 9000)
+                '''
+                if counter > 9000:
+                    print(errors)
+                    sys.exit()
+                '''
             else:
                 print("japo")
         #except UnicodeDecodeError:
          #   errors+=1
-print(errors)
