@@ -1,3 +1,4 @@
+import math
 import os
 import string
 import sys
@@ -118,6 +119,6 @@ with open('word_count.csv', mode='w', newline='') as ffile:
     writer.writerows(words_top)
 
 print(f"Number of files processed: {counter}")
-print(f"Mean length of text: {sum(lengths) / counter}")
-print(f"Mean length of text without headers: {sum(lengths_no_headers) / counter}")
+print(f"Mean length of text without headers: {sum(lengths_no_headers) / counter}, standard deviation: {math.sqrt(sum((length - sum(lengths_no_headers) / counter) ** 2 for length in lengths_no_headers) / counter)}")
+print(f"Mean length of text: {sum(lengths) / counter}, standard deviation: {math.sqrt(sum((length - sum(lengths) / counter) ** 2 for length in lengths) / counter)}")
 sys.exit()
