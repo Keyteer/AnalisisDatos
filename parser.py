@@ -66,6 +66,9 @@ words_top = Counter()
 nltk.download('stopwords')
 stopwords_set = set(stopwords.words('english'))
 
+lengths = []
+lengths_no_headers = []
+
 for filename in os.listdir(folder_path):
     if filename.endswith(".txt"):
         print(filename)
@@ -75,7 +78,10 @@ for filename in os.listdir(folder_path):
         with open(file_path, "r", encoding="utf-8", errors="ignore") as file:
             file.seek(0)
             if not is_ignorable(file):
+                file.seek(0)
+                lengths.append(len(file.read()))
                 text = remove_headers(file)
+                lengths_no_headers.append(len(text))
                 stripped_text = bs4.BeautifulSoup(text, features="lxml").text.strip()
                 if is_base64(file):
                     print("yea it is")
@@ -110,4 +116,8 @@ with open('word_count.csv', mode='w', newline='') as ffile:
     writer = csv.writer(ffile)
     writer.writerow(['word', 'count'])
     writer.writerows(words_top)
+
+print(f"Number of files processed: {counter}")
+print(f"Mean length of text: {sum(lengths) / counter}")
+print(f"Mean length of text without headers: {sum(lengths_no_headers) / counter}")
 sys.exit()
