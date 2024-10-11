@@ -5,6 +5,10 @@ from collections import Counter
 import bs4
 import base64
 import unidecode
+import csv
+import nltk
+from nltk.corpus import stopwords
+
 
 def is_base64(file):
     file.seek(0)
@@ -58,6 +62,10 @@ folder_path = "spam_archive"
 not_content = []
 errors = 0
 counter = 0
+words_top = Counter()
+nltk.download('stopwords')
+stopwords_set = set(stopwords.words('english'))
+
 for filename in os.listdir(folder_path):
     if filename.endswith(".txt"):
         print(filename)
@@ -75,6 +83,9 @@ for filename in os.listdir(folder_path):
                     try:
                         stripped_text = base64.b64decode(stripped_text + "="*(4-missing_padding)).decode("utf-8")
                     except ValueError as e:
+                        invalid_64 = True
+                        # quitar continue si se desea trabajar con correos en formato japones shift_jis
+                        continue
                         try:
                             stripped_text = base64.b64decode(stripped_text + "=" * (4 - missing_padding)).decode("shift_jis")
                         except ValueError as e:
@@ -82,17 +93,21 @@ for filename in os.listdir(folder_path):
                             errors+=1
                             print(e)
                 if not invalid_64:
-                    get_common_words(stripped_text)
+                    words_top += get_common_words(stripped_text)
                     counter += 1
                 else:
                     print("invalid 64")
-                # Para detener el codigo tras leer x archivos (en este caso 9000)
-                '''
-                if counter > 9000:
-                    print(errors)
-                    sys.exit()
-                '''
             else:
                 print("japo")
-        #except UnicodeDecodeError:
-         #   errors+=1
+
+print(errors)
+print("FINAL WORD TOP:")
+words_top = words_top
+words_top = Counter({word: count for word, count in words_top.items() if word not in stopwords_set}).most_common()
+
+print(words_top)
+with open('word_count.csv', mode='w', newline='') as ffile:
+    writer = csv.writer(ffile)
+    writer.writerow(['word', 'count'])
+    writer.writerows(words_top)
+sys.exit()
